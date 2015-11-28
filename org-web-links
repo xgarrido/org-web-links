@@ -145,6 +145,15 @@ function update_readme ()
     sed -i -e '/.*'$category'/a '"$orglink" $store_file
     awk '!seen[$0]++' $store_file > ${store_file}.tmp
     mv ${store_file}.tmp $store_file
+    return 0
+}
+
+function pull_readme ()
+{
+    git add "${store_file}"
+    git commit -m "Update ($(date +%Y/%m/%d-%T))"
+    git push
+    return 0
 }
 
 function main ()
@@ -152,6 +161,7 @@ function main ()
     get_url_description
     get_category
     update_readme
+    pull_readme
     return 0
 }
 
