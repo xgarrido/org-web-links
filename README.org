@@ -1,0 +1,10 @@
+#+TITLE:  Interesting web links to keep an eye on it
+#+AUTHOR: Xavier Garrido
+#+EMAIL:  xavier.garrido@gmail.com
+
+* Science
+* Coding
+** LaTeX
+** emacs
+** org-mode
+** zsh

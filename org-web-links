@@ -1,0 +1,158 @@
+#!/bin/bash
+
+dir="$(dirname $0)"
+store_file="$dir/README.org"
+url=
+description=
+category=
+
+function notify ()
+{
+    local prefix
+    local options
+    case $1 in
+        error)
+            prefix="\\033[0;31mERROR: "
+            options="-t 5000 -h \"string:bgcolor:#DC322F\""
+            ;;
+        debug)
+            prefix="\\033[0;32mDEBUG: "
+            ;;
+        notice)
+            prefix="\\033[0;34mNOTICE: "
+            options="-t 5000 -h \"string:bgcolor:#859900\""
+            ;;
+    esac
+    echo -e $prefix "${@:2}\\033[0;39m"
+    if [ ! -z "${options}" ]; then
+        notify-send $(eval echo ${options}) "$(basename $0)" "${@:2}"
+    fi
+    return 0
+}
+
+function get_url_description ()
+{
+    local winfo=$(wmctrl -l | grep Chromium | head -1)
+    # Get internet url
+    local wid=$(echo $winfo | awk '{print $1}')
+    local deskid=$(echo $winfo | awk '{print $2}')
+    local currentdeskid=$(wmctrl -d | awk '{if ($2 == "*") print $1}')
+    wmctrl -s $deskid
+    xdotool windowfocus $wid
+    xdotool key ctrl+l
+    xdotool key ctrl+c
+    url=$(xclip -o)
+    wmctrl -s $currentdeskid
+
+    notify debug "url=$url"
+    local found=$(cat "$store_file" | grep $url)
+    if [ ! -z "$found" ]; then
+        notify notice "url already stored !"
+        exit 0
+    fi
+
+    # Get window description
+    description=$(echo $winfo | awk '{for (i=1;i<=3;i++) $i=""; print}' | \
+                         sed -e 's/– Chromium//g' -e 's/^[ \t]*//')
+    description=$(zenity --entry --text "Set description" \
+                         --entry-text "${description}")
+    if [ -z "$description" ]; then
+        notify error "Missing description !"
+        exit 0
+    fi
+    notify debug "description=$description"
+    return 0
+}
+function create_category ()
+{
+    category=$(zenity --entry --text "Set new category" \
+                      --entry-text "")
+    IFS='/'
+    local array=($category)
+    local is_new_category=false
+    for i in "${!array[@]}"; do
+        local idx=$((i+1))
+        local found=$(cat "$store_file" | grep "^*\{$idx\} ${array[$i]}")
+        if [ -z "$found" ]; then
+            notify notice "Found ${array[$i]} !"
+            is_new_category=true
+            break
+        fi
+    done
+    if ! ${is_new_category}; then
+        category=${array[$i]}
+        notify notice "Category '${category}' already set!"
+        return 0
+    fi
+    for ((j=$i; j<${#array[@]}; j++))
+    do
+        local heading=
+        for ((k=0; k<=$j; k++)); do heading+="*";done
+        heading+=" ${array[$j]}"
+        category=${array[$j]}
+        # First heading
+        if [[ $idx == 1 ]]; then
+            sed -i -e "\$a${heading}" "$store_file"
+        else
+            sed -i -e '/.*'${array[$((i-1))]}'/a '"$heading" "$store_file"
+        fi
+    done
+    unset IFS
+    return 0
+}
+
+function get_category ()
+{
+    local sep="▸"
+    local categories=($(awk -v sep=$sep \
+                  '{
+                      if ($0 ~ /^*/) {
+                          cnt = split($0, a, "*") - 1
+                          if (cnt > 1) {
+                              for (i=0; i < cnt; i++) indent = indent "_"
+                              indent = indent sep "_"
+                              gsub("* ", indent, $0)
+                          }
+                          indent = ""
+                          gsub("[*| ]", "_", $0)
+                          print $0
+                      }
+                  }' \
+                  $store_file))
+    for i in ${categories[@]}
+    do
+        local radiolist=("${radiolist[@]}" "FALSE" "${i//_/ }")
+    done
+    notify debug ${radiolist[@]}
+    category=$(zenity --list --text "Choose category" --radiolist \
+                      --hide-header --column "" --column "" --extra-button "New category"      \
+                      "${radiolist[@]}")
+    if [[ $category == "New category" ]]; then
+        create_category
+    fi
+    category=$(echo ${category/$sep/} | sed -e 's/^[ \t]*//')
+    notify debug "category=$category"
+    if [ -z "$category" ]; then
+        notify error "Missing category !"
+        exit 1
+    fi
+    return 0
+}
+
+function update_readme ()
+{
+    local orglink="- [[$url][$description]] /(added $(date +%Y-%m-%d))/"
+    sed -i -e '/.*'$category'/a '"$orglink" $store_file
+    awk '!seen[$0]++' $store_file > ${store_file}.tmp
+    mv ${store_file}.tmp $store_file
+}
+
+function main ()
+{
+    get_url_description
+    get_category
+    update_readme
+    return 0
+}
+
+main $@
