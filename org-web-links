@@ -154,9 +154,11 @@ function update_readme ()
 
 function pull_readme ()
 {
+    cd $dir
     git add "${store_file}"
     git commit -m "Update ($(date +%Y/%m/%d-%T))"
     git push
+    notify notice "Change pushed !"
     return 0
 }
 
