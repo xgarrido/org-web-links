@@ -58,7 +58,7 @@ function get_url_description ()
     # Get window description
     description=$(echo $winfo | awk '{for (i=1;i<=3;i++) $i=""; print}' | \
                          sed -e 's/– Chromium//g' -e 's/^[ \t]*//')
-    description=$(zenity --entry --text "Set description" \
+    description=$(zenity --title "org-web-links" --entry --text "Set description" \
                          --entry-text "${description}")
     if [ -z "$description" ]; then
         notify error "Missing description !"
@@ -69,8 +69,8 @@ function get_url_description ()
 }
 function create_category ()
 {
-    category=$(zenity --entry --text "Set new category" \
-                      --entry-text "")
+    category=$(zenity  --title "org-web-links" --entry \
+                       --text "Set new category" --entry-text "")
     IFS='/'
     local array=($category)
     local is_new_category=false
@@ -128,8 +128,8 @@ function get_category ()
         local radiolist=("${radiolist[@]}" "FALSE" "${i//_/ }")
     done
     notify debug ${radiolist[@]}
-    category=$(zenity --list --text "Choose category" --radiolist                         \
-                      --hide-header --column "" --column "" --extra-button "New category" \
+    category=$(zenity  --title "org-web-links" --list --text "Choose category" --radiolist \
+                      --hide-header --column "" --column "" --extra-button "New category"  \
                       "${radiolist[@]}")
     if [[ $category == "New category" ]]; then
         create_category
