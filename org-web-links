@@ -37,7 +37,11 @@ function get_url_description ()
     local wid=$(echo $winfo | awk '{print $1}')
     local deskid=$(echo $winfo | awk '{print $2}')
     local currentdeskid=$(wmctrl -d | awk '{if ($2 == "*") print $1}')
-    wmctrl -s $deskid
+    if [[ $deskid != $currentdeskid ]]; then
+        notify error "must be run on same desktop"
+        exit 0
+    fi
+    # wmctrl -s $deskid
     xdotool windowfocus $wid
     xdotool key ctrl+l
     xdotool key ctrl+c
