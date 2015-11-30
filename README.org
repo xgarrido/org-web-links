@@ -3,7 +3,6 @@
 #+EMAIL:  xavier.garrido@gmail.com
 
 * Science
-- [[https://github.com/xgarrido?tab=repositories][xgarrido (Xavier Garrido) ]] /(added 2015-11-30)/
 * Coding
 ** LaTeX
 ** emacs
