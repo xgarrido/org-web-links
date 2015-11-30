@@ -128,8 +128,8 @@ function get_category ()
         local radiolist=("${radiolist[@]}" "FALSE" "${i//_/ }")
     done
     notify debug ${radiolist[@]}
-    category=$(zenity --list --text "Choose category" --radiolist \
-                      --hide-header --column "" --column "" --extra-button "New category"      \
+    category=$(zenity --list --text "Choose category" --radiolist                         \
+                      --hide-header --column "" --column "" --extra-button "New category" \
                       "${radiolist[@]}")
     if [[ $category == "New category" ]]; then
         create_category
