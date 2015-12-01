@@ -6,5 +6,6 @@
 * Coding
 ** LaTeX
 ** emacs
+- [[http://blog.binchen.org/posts/emacs-auto-completion-for-non-programmers.html][Emacs auto-completion for non-programmers | Chen's blog ]] /(added 2015-12-01)/
 ** org-mode
 ** zsh
