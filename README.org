@@ -9,3 +9,4 @@
 - [[http://blog.binchen.org/posts/emacs-auto-completion-for-non-programmers.html][Emacs auto-completion for non-programmers | Chen's blog ]] /(added 2015-12-01)/
 ** org-mode
 ** zsh
+- [[https://github.com/pindexis/qfc][Quick command line file completion]] /(added 2015-12-01)/
