@@ -8,5 +8,6 @@
 ** emacs
 - [[http://blog.binchen.org/posts/emacs-auto-completion-for-non-programmers.html][Emacs auto-completion for non-programmers | Chen's blog ]] /(added 2015-12-01)/
 ** org-mode
+- [[http://irreal.org/blog/?p=4735][Asynchronous Python in Org Mode]] /(added 2015-12-02)/
 ** zsh
 - [[https://github.com/pindexis/qfc][Quick command line file completion]] /(added 2015-12-01)/
