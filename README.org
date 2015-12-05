@@ -3,6 +3,7 @@
 #+EMAIL:  xavier.garrido@gmail.com
 
 * Science
+- [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
 * Coding
 ** LaTeX
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
