@@ -1,6 +1,7 @@
 #+TITLE:  Interesting web links to keep an eye on it
 #+AUTHOR: Xavier Garrido
 #+EMAIL:  xavier.garrido@gmail.com
+#+OPTIONS: toc:nil num:nil
 
 * Science
 - [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
