@@ -7,6 +7,7 @@
 - [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
 * Coding
 ** LaTeX
+- [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** emacs
 - [[http://cestdiego.github.io/blog/2015/12/04/using-rsync-when-tramp-is-too-much/][Using Rsync when Tramp is too much]] /(added 2015-12-06)/
