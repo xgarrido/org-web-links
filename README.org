@@ -4,6 +4,7 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+- [[http://passeurdesciences.blog.lemonde.fr/2015/12/20/les-electrons-sont-ils-immortels/#xtor=RSS-3208][Les électrons sont-ils immortels ?]] /(added 2015-12-21)/
 - [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
 * Coding
 ** LaTeX
