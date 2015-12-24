@@ -4,6 +4,7 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+- [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[http://www.nytimes.com/2015/12/16/science/physicists-in-europe-find-tantalizing-hints-of-a-mysterious-new-particle.html?mabReward=A4&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine&_r=1][Physicists in Europe Find Tantalizing Hints of a Mysterious New Particle]] /(added 2015-12-23)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 - [[http://passeurdesciences.blog.lemonde.fr/2015/12/20/les-electrons-sont-ils-immortels/#xtor=RSS-3208][Les électrons sont-ils immortels ?]] /(added 2015-12-21)/
