@@ -16,6 +16,7 @@
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** emacs
+- [[][mu4e - Another configuration]] /(added 2015-12-24)/
 - [[https://www.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref]] /(added 2015-12-22)/
 - [[http://tiborsimko.org/emacs-epydoc-snippets.html][Writing Python Docstrings with yasnippet/Emacs ]] /(added 2015-12-22)/
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/
