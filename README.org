@@ -11,13 +11,13 @@
 - [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
 * Coding
 ** Python
-- [[https://github.com/tqdm/tqdm][https://github.com/tqdm/tqdm]] /(added 2015-12-25)/
-- [[][tqdm - A fast, extensible progress bar for Python]] /(added 2015-12-23)/
+- [[tqdm - A fast, extensible progress bar for Python][https://github.com/tqdm/tqdm]] /(added 2015-12-25)/
 - [[https://github.com/dellis23/ispy][A python script for monitoring the output of other terminals and processes]] /(added 2015-12-21)/
 ** LaTeX
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** emacs
+- [[http://emacs.readthedocs.org/en/latest/mu4e__email_client.html][mu4e - Another configuration]] /(added 2015-12-25)/
 - [[][mu4e - Another configuration]] /(added 2015-12-24)/
 - [[https://www.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref]] /(added 2015-12-22)/
 - [[http://tiborsimko.org/emacs-epydoc-snippets.html][Writing Python Docstrings with yasnippet/Emacs ]] /(added 2015-12-22)/
