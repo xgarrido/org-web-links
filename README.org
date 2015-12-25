@@ -18,7 +18,6 @@
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** emacs
 - [[http://emacs.readthedocs.org/en/latest/mu4e__email_client.html][mu4e - Another configuration]] /(added 2015-12-25)/
-- [[][mu4e - Another configuration]] /(added 2015-12-24)/
 - [[https://www.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref]] /(added 2015-12-22)/
 - [[http://tiborsimko.org/emacs-epydoc-snippets.html][Writing Python Docstrings with yasnippet/Emacs ]] /(added 2015-12-22)/
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/

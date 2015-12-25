@@ -67,6 +67,7 @@ function get_url_description ()
     notify debug "description=$description"
     return 0
 }
+
 function create_category ()
 {
     category=$(zenity  --title "org-web-links" --entry \
