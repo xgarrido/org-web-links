@@ -11,6 +11,7 @@
 - [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
 * Coding
 ** Python
+- [[https://github.com/tqdm/tqdm][https://github.com/tqdm/tqdm]] /(added 2015-12-25)/
 - [[][tqdm - A fast, extensible progress bar for Python]] /(added 2015-12-23)/
 - [[https://github.com/dellis23/ispy][A python script for monitoring the output of other terminals and processes]] /(added 2015-12-21)/
 ** LaTeX
