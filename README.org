@@ -17,6 +17,7 @@
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** emacs
+- [[https://www.reddit.com/r/emacs/comments/3yxk2x/flexible_isearch_without_a_package/][Flexible isearch without a package]] /(added 2015-12-31)/
 - [[http://emacs.readthedocs.org/en/latest/mu4e__email_client.html][mu4e - Another configuration]] /(added 2015-12-25)/
 - [[https://www.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref]] /(added 2015-12-22)/
 - [[http://tiborsimko.org/emacs-epydoc-snippets.html][Writing Python Docstrings with yasnippet/Emacs ]] /(added 2015-12-22)/
