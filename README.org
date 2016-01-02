@@ -25,18 +25,16 @@
 - [[http://cestdiego.github.io/blog/2015/12/04/using-rsync-when-tramp-is-too-much/][Using Rsync when Tramp is too much]] /(added 2015-12-06)/
 - [[http://pragmaticemacs.com/emacs/naming-and-saving-macros-for-repetitive-tasks/][Naming and saving macros for repetitive tasks]] /(added 2015-12-06)/
 - [[http://blog.binchen.org/posts/emacs-auto-completion-for-non-programmers.html][Emacs auto-completion for non-programmers | Chen's blog ]] /(added 2015-12-01)/
-
 *** mu4e
 - [[http://emacs.stackexchange.com/questions/15245/creating-a-contact-group-from-a-local-file-to-use-with-mu4e][email - Creating a contact group from a local file to use with mu4e]] /(added 2016-01-02)/
 - [[http://emacs.readthedocs.org/en/latest/mu4e__email_client.html][mu4e - Another configuration]] /(added 2015-12-25)/
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/
 - [[http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html][Drowning in Email; mu4e to the Rescue. ]] /(added 2015-12-02)/
-
 *** org-mode
 - [[http://orgmode.org/manual/noweb_002dref.html#noweb_002dref][noweb-ref - The Org Manual ]] /(added 2015-12-23)/
 - [[http://irreal.org/blog/?p=4735][Asynchronous Python in Org Mode]] /(added 2015-12-02)/
-
 ** zsh
+- [[https://github.com/johang/btfs][A bittorent filesystem based on FUSE]] /(added 2016-01-02)/
 - [[https://github.com/RichiH/vcsh/][Config manager based on Git]] /(added 2016-01-01)/
 - [[https://github.com/jamesob/desk][Alightweight workspace manager for the shell]] /(added 2015-12-15)/
 - [[https://github.com/rcaloras/bashhub-client][Bash/zsh history in the cloud]] /(added 2015-12-08)/
