@@ -26,6 +26,7 @@
 - [[http://pragmaticemacs.com/emacs/naming-and-saving-macros-for-repetitive-tasks/][Naming and saving macros for repetitive tasks]] /(added 2015-12-06)/
 - [[http://blog.binchen.org/posts/emacs-auto-completion-for-non-programmers.html][Emacs auto-completion for non-programmers | Chen's blog ]] /(added 2015-12-01)/
 *** mu4e
+- [[http://www.gnu.org/software/emacs/manual/html_node/emacs/Mail-Aliases.html#Mail-Aliases][Mail Aliases ]] /(added 2016-01-03)/
 - [[http://emacs.stackexchange.com/questions/15245/creating-a-contact-group-from-a-local-file-to-use-with-mu4e][email - Creating a contact group from a local file to use with mu4e]] /(added 2016-01-02)/
 - [[http://emacs.readthedocs.org/en/latest/mu4e__email_client.html][mu4e - Another configuration]] /(added 2015-12-25)/
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/
