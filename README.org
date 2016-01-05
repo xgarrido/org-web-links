@@ -12,6 +12,7 @@
 - [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
 * Coding
 ** Python
+- [[http://fbkarsdorp.github.io/python-course/][Python Programming for the Humanities by Folgert Karsdorp ]] /(added 2016-01-05)/
 - [[https://github.com/patrick--/simplemap][Python module to allow for easy creation of a google maps HTML file]] /(added 2015-12-31)/
 - [[https://github.com/tqdm/tqdm][tqdm - A fast, extensible progress bar for Python]] /(added 2015-12-25)/
 - [[https://github.com/dellis23/ispy][A python script for monitoring the output of other terminals and processes]] /(added 2015-12-21)/
