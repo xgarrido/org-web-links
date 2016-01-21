@@ -4,6 +4,7 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+- [[http://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle][Is the neutrino its own antiparticle? | symmetry magazine ]] /(added 2016-01-21)/
 - [[https://plus.maths.org/content/purifying-physics-quest-explain-why-quantum-exists][Purifying Physics: The quest to explain why the "quantum" exists]] /(added 2016-01-01)/
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[http://www.nytimes.com/2015/12/16/science/physicists-in-europe-find-tantalizing-hints-of-a-mysterious-new-particle.html?mabReward=A4&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine&_r=1][Physicists in Europe Find Tantalizing Hints of a Mysterious New Particle]] /(added 2015-12-23)/
