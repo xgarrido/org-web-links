@@ -21,6 +21,7 @@
 - [[https://github.com/tqdm/tqdm][tqdm - A fast, extensible progress bar for Python]] /(added 2015-12-25)/
 - [[https://github.com/dellis23/ispy][A python script for monitoring the output of other terminals and processes]] /(added 2015-12-21)/
 ** LaTeX
+- [[https://github.com/forflo/PiFo][forflo/PiFo: Pidgin message formatter ]] /(added 2016-02-04)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** emacs
