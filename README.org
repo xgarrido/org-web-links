@@ -41,6 +41,7 @@
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/
 - [[http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html][Drowning in Email; mu4e to the Rescue. ]] /(added 2015-12-02)/
 *** org-mode
+- [[http://kitchingroup.cheme.cmu.edu/blog/2016/02/09/Calling-remote-code-blocks-in-org-mode/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed:+TheKitchinResearchGroup+(The+Kitchin+Research+Group)#hallenbeck-2015-compar-co2][Calling remote code-blocks in org-mode]] /(added 2016-02-11)/
 - [[https://github.com/tsdye/tufte-org-mode][tsdye/tufte-org-mode: An Org mode environment for producing Tufte-LaTeX books and handouts ]] /(added 2016-02-07)/
 - [[https://github.com/robrohan/bestowed][robrohan/bestowed: Extremely simple presentation (ppt, keynote, etc) framework for org-mode export ]] /(added 2016-01-28)/
 - [[https://github.com/marsmining/ox-twbs][marsmining/ox-twbs: Export org-mode docs as HTML compatible with Twitter Bootstrap. ]] /(added 2016-01-22)/
