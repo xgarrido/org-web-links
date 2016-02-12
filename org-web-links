@@ -64,6 +64,7 @@ function get_url_description ()
         notify error "Missing description !"
         exit 0
     fi
+    description=$(echo $description | sed -e 's/\[//g' -e 's/\]/:/g')
     notify debug "description=$description"
     return 0
 }
@@ -147,7 +148,9 @@ function get_category ()
 function update_readme ()
 {
     local orglink="- [[$url][$description]] /(added $(date +%Y-%m-%d))/"
-    sed -i -e '/.*'$category'/a '"$orglink" $store_file
+    notify debug "orglink=$orglink"
+    notify debug "category=${category// /.}"
+    sed -i -e '/.*'${category// /.}'/a '"$orglink" $store_file
     awk '!seen[$0]++' $store_file > ${store_file}.tmp
     mv ${store_file}.tmp $store_file
     return 0
