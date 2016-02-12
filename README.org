@@ -5,13 +5,18 @@
 
 * Science
 ** Double beta decay
+- [[http://arxiv.org/abs/1601.07266][First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200]] /(added 2016-02-12)/
 - [[http://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle][Is the neutrino its own antiparticle? | symmetry magazine ]] /(added 2016-01-21)/
+** Quantum mechanics
+- [[http://www.sciencealert.com/physicists-have-broken-the-record-for-the-most-accurate-clock-ever-built][Physicists have broken the record for the most accurate clock ever built]] /(added 2016-02-12)/
 - [[https://plus.maths.org/content/purifying-physics-quest-explain-why-quantum-exists][Purifying Physics: The quest to explain why the "quantum" exists]] /(added 2016-01-01)/
-- [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
-- [[http://www.nytimes.com/2015/12/16/science/physicists-in-europe-find-tantalizing-hints-of-a-mysterious-new-particle.html?mabReward=A4&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine&_r=1][Physicists in Europe Find Tantalizing Hints of a Mysterious New Particle]] /(added 2015-12-23)/
-- [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 - [[http://passeurdesciences.blog.lemonde.fr/2015/12/20/les-electrons-sont-ils-immortels/#xtor=RSS-3208][Les électrons sont-ils immortels ?]] /(added 2015-12-21)/
+** Particle physics
+- [[http://www.nytimes.com/2015/12/16/science/physicists-in-europe-find-tantalizing-hints-of-a-mysterious-new-particle.html?mabReward=A4&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine&_r=1][Physicists in Europe Find Tantalizing Hints of a Mysterious New Particle]] /(added 2015-12-23)/
 - [[http://www.wired.com/2015/11/physicists-are-desperate-to-be-wrong-about-the-higgs-boson/][Physicists Are Desperate to Be Wrong About the Higgs Boson ]] /(added 2015-12-05)/
+** Philosophy, ideas,...
+- [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
+- [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
 ** archlinux
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
@@ -20,11 +25,12 @@
 - [[http://fbkarsdorp.github.io/python-course/][Python Programming for the Humanities by Folgert Karsdorp ]] /(added 2016-01-05)/
 - [[https://github.com/patrick--/simplemap][Python module to allow for easy creation of a google maps HTML file]] /(added 2015-12-31)/
 - [[https://github.com/tqdm/tqdm][tqdm - A fast, extensible progress bar for Python]] /(added 2015-12-25)/
-- [[https://github.com/dellis23/ispy][A python script for monitoring the output of other terminals and processes]] /(added 2015-12-21)/
-** LaTeX
+- [[https://github.com/dellis23/ispy][A python script for monitoring the output
+  of other terminals and processes]] /(added 2015-12-21)/
 - [[https://github.com/forflo/PiFo][forflo/PiFo: Pidgin message formatter ]] /(added 2016-02-04)/
-- [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
+** LaTeX
+- [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
 - [[https://www.reddit.com/r/emacs/comments/3yxk2x/flexible_isearch_without_a_package/][Flexible isearch without a package]] /(added 2015-12-31)/
 - [[https://www.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref]] /(added 2015-12-22)/
