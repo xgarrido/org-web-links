@@ -18,6 +18,8 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+** SN@ilWare
+- [[http://apple.stackexchange.com/questions/164525/what-directory-does-homebrew-use-to-build-programs][What directory does homebrew use to build programs?]] /(added 2016-02-16)/
 ** C++
 - [[http://www.ikea.com/fr/fr/catalog/products/60301463/#/40301459][C++ 11 Auto: How to use and avoid abuse]] /(added 2016-02-14)/
 ** archlinux
