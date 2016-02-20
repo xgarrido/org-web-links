@@ -29,8 +29,8 @@
 - [[http://fbkarsdorp.github.io/python-course/][Python Programming for the Humanities by Folgert Karsdorp ]] /(added 2016-01-05)/
 - [[https://github.com/patrick--/simplemap][Python module to allow for easy creation of a google maps HTML file]] /(added 2015-12-31)/
 - [[https://github.com/tqdm/tqdm][tqdm - A fast, extensible progress bar for Python]] /(added 2015-12-25)/
-- [[https://github.com/dellis23/ispy][A python script for monitoring the output
-  of other terminals and processes]] /(added 2015-12-21)/
+- [[https://github.com/dellis23/ispy][A python script for monitoring the output of other terminals and processes]]
+  /(added 2015-12-21)/
 - [[https://github.com/forflo/PiFo][forflo/PiFo: Pidgin message formatter ]] /(added 2016-02-04)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** LaTeX
@@ -60,6 +60,7 @@
 - [[http://orgmode.org/manual/noweb_002dref.html#noweb_002dref][noweb-ref - The Org Manual ]] /(added 2015-12-23)/
 - [[http://irreal.org/blog/?p=4735][Asynchronous Python in Org Mode]] /(added 2015-12-02)/
 ** zsh
+- [[https://github.com/khtdr/pageboy][khtdr/pageboy: pound bang get going repeat]] /(added 2016-02-20)/
 - [[https://github.com/johang/btfs][A bittorent filesystem based on FUSE]] /(added 2016-01-02)/
 - [[https://github.com/RichiH/vcsh/][Config manager based on Git]] /(added 2016-01-01)/
 - [[https://github.com/jamesob/desk][Alightweight workspace manager for the shell]] /(added 2015-12-15)/
