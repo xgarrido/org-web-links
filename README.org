@@ -4,6 +4,7 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+- [[http://discovermagazine.com/2007/nov/the-man-who-imagined-wormholes-and-schooled-hawking/][The Man Who Imagined Wormholes and Schooled Hawking]] /(added 2016-02-27)/
 ** Double beta decay
 - [[http://arxiv.org/abs/1601.07266][First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200]] /(added 2016-02-12)/
 - [[http://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle][Is the neutrino its own antiparticle? | symmetry magazine ]] /(added 2016-01-21)/
