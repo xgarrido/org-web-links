@@ -40,6 +40,7 @@
 - [[https://github.com/forflo/PiFo][forflo/PiFo: Pidgin message formatter ]] /(added 2016-02-04)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** LaTeX
+- [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
 - [[http://pragmaticemacs.com/emacs/open-a-recent-directory-in-dired-revisited/][Open a recent directory in dired: revisited]] /(added 2016-02-23)/
