@@ -46,6 +46,7 @@
 - [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
+- [[https://github.com/rails-to-cosmos/danneskjold-theme][rails-to-cosmos/danneskjold-theme: Beautiful high-contrast emacs theme]] /(added 2016-03-22)/
 - [[https://www.youtube.com/watch?v=VuAnwCERM0U][Image tooltips in Emacs]] /(added 2016-03-22)/
 - [[https://www.masteringemacs.org/article/spotlight-use-package-a-declarative-configuration-tool][Spotlight: use-package, a declarative configuration tool]] /(added 2016-03-19)/
 - [[http://pragmaticemacs.com/emacs/open-a-recent-directory-in-dired-revisited/][Open a recent directory in dired: revisited]] /(added 2016-02-23)/
