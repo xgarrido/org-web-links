@@ -34,6 +34,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/karldray/quantum][karldray/quantum: Simulate reverse causality using quantum suicide.]] /(added 2016-03-24)/
 - [[https://github.com/reubano/meza][reubano/meza: A Python toolkit for processing tabular data ]] /(added 2016-02-01)/
 - [[http://fbkarsdorp.github.io/python-course/][Python Programming for the Humanities by Folgert Karsdorp ]] /(added 2016-01-05)/
 - [[https://github.com/patrick--/simplemap][Python module to allow for easy creation of a google maps HTML file]] /(added 2015-12-31)/
