@@ -29,6 +29,7 @@
 ** SN@ilWare
 - [[http://apple.stackexchange.com/questions/164525/what-directory-does-homebrew-use-to-build-programs][What directory does homebrew use to build programs?]] /(added 2016-02-16)/
 ** C++
+- [[http://shaharmike.com/cpp/lambdas-and-functions/][Under the hood of lambdas and std::function]] /(added 2016-03-28)/
 - [[https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/][Power up C++ with the Standard Template Library: Part 1]] /(added 2016-03-04)/
 - [[http://www.ikea.com/fr/fr/catalog/products/60301463/#/40301459][C++ 11 Auto: How to use and avoid abuse]] /(added 2016-02-14)/
 ** archlinux
