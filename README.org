@@ -47,6 +47,7 @@
 - [[https://github.com/forflo/PiFo][forflo/PiFo: Pidgin message formatter ]] /(added 2016-02-04)/
 - [[http://jgilchrist.co.uk/pybib/][A super-easy way to get BibTeX entries]] /(added 2015-12-05)/
 ** LaTeX
+- [[https://github.com/chrisanthropic/Open-Publisher][chrisanthropic/Open-Publisher: Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf.]] /(added 2016-04-08)/
 - [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
