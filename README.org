@@ -89,6 +89,7 @@
 - [[http://orgmode.org/manual/noweb_002dref.html#noweb_002dref][noweb-ref - The Org Manual ]] /(added 2015-12-23)/
 - [[http://irreal.org/blog/?p=4735][Asynchronous Python in Org Mode]] /(added 2015-12-02)/
 ** zsh
+- [[https://asciinema.org/a/45530][Ztrace]] /(added 2016-06-22)/
 - [[https://medium.com/@robbyrussell/d-oh-my-zsh-af99ca54212c#.70etbrl37][d’Oh My Zsh]] /(added 2016-03-24)/
 - [[https://github.com/khtdr/pageboy][khtdr/pageboy: pound bang get going repeat]] /(added 2016-02-20)/
 - [[https://github.com/johang/btfs][A bittorent filesystem based on FUSE]] /(added 2016-01-02)/
