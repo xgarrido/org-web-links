@@ -102,6 +102,7 @@
 - [[https://github.com/rcaloras/bashhub-client][Bash/zsh history in the cloud]] /(added 2015-12-08)/
 - [[https://github.com/pindexis/qfc][Quick command line file completion]] /(added 2015-12-01)/
 * To be looked later
+- [[][Introduction to neutrino oscillations (video)]] /(added 2016-07-03)/
 - [[http://www.nature.com/articles/srep28263][Relativistic-microwave theory of ball lightning : Scientific Reports]] /(added 2016-07-03)/
 - [[https://www.quantamagazine.org/20160419-string-inflation-triangles/][Physicists Hunt For The Big Bang’s Triangles]] /(added 2016-07-03)/
 - [[https://www.quantamagazine.org/20160324-in-newly-created-life-form-a-major-mystery/][In Newly Created Life-Form, A Major Mystery]] /(added 2016-07-03)/
