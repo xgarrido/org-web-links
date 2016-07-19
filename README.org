@@ -25,6 +25,8 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+** git
+- [[https://lgtm.co/][LGTM : Simple Approvals for Pull Requests]] /(added 2016-07-19)/
 - [[http://arohatgi.info/WebPlotDigitizer/app/][WebPlotDigitizer]] /(added 2016-06-23)/
 - [[https://mathics.github.io/][Mathics, a free, light-weight alternative to Mathematica]] /(added 2016-04-09)/
 - [[http://www.symmetrymagazine.org/article/the-next-big-lhc-upgrade-software?utm_source=main_feed_click&utm_medium=rss&utm_campaign=main_feed&utm_content=click][The next big LHC upgrade? Software.]] /(added 2016-03-29)/
