@@ -80,6 +80,7 @@
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/
 - [[http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html][Drowning in Email; mu4e to the Rescue. ]] /(added 2015-12-02)/
 *** org-mode
+- [[http://orgminimal.tizi.moe/][orgminimal.tizi.moe]] /(added 2016-07-25)/
 - [[http://jnboehm.gitlab.io/blog/tufte-css/][Using Tufte CSS and org-page]] /(added 2016-07-12)/
 - [[https://www.miskatonic.org/2016/06/30/tidy-data-in-org/][Tidy data in Org]] /(added 2016-07-05)/
 - [[https://github.com/snosov1/toc-org][snosov1/toc-org: toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting]] /(added 2016-07-03)/
