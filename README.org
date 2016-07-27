@@ -107,6 +107,7 @@
 - [[https://github.com/rcaloras/bashhub-client][Bash/zsh history in the cloud]] /(added 2015-12-08)/
 - [[https://github.com/pindexis/qfc][Quick command line file completion]] /(added 2015-12-01)/
 * To be looked later
+- [[https://www.fourmilab.ch/etexts/einstein/specrel/www/][On the Electrodynamics of Moving Bodies]] /(added 2016-07-27)/
 - [[http://www.npr.org/sections/13.7/2016/06/28/483805061/has-physics-gotten-something-really-important-really-wrong][Has Physics Gotten Something Really Important Really Wrong?]] /(added 2016-07-10)/
 - [[][Let’s make peer review scientific : Nature News & Comment]] /(added 2016-07-07)/
 - [[http://vms.fnal.gov/asset/detail?recid=1943068][Introduction to neutrino oscillations (video)]] /(added 2016-07-03)/
