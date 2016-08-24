@@ -33,6 +33,7 @@
 ** git
 - [[https://lgtm.co/][LGTM : Simple Approvals for Pull Requests]] /(added 2016-07-19)/
 ** golang
+- [[https://blog.jessfraz.com/post/docker-containers-on-the-desktop/][Jessie Frazelle's Blog: Docker Containers on the Desktop]] /(added 2016-08-24)/
 - [[https://github.com/jfrazelle/dotfiles/blob/master/bin/install.sh][dotfiles/install.sh at master · jfrazelle/dotfiles]] /(added 2016-08-24)/
 - [[https://gobyexample.com/][Go by Example]] /(added 2016-03-04)/
 - [[https://msys2.github.io/][Archlinux under windows]] /(added 2016-03-03)/
