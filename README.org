@@ -4,6 +4,8 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+** Astrophysics
+- [[http://www.antipope.org/charlie/blog-static/2016/08/san-trombone-exoplanet-reality.html][Sad Trombone Exoplanet Reality Check - Charlie's Diary]] /(added 2016-08-24)/
 - [[http://www.nytimes.com/2016/07/31/opinion/sunday/what-babies-know-about-physics-and-foreign-languages.html?_r=0][What Babies Know About Physics and Foreign Languages]] /(added 2016-08-05)/
 - [[http://www.sciencemag.org/news/2016/02/here-s-first-person-spot-those-gravitational-waves?utm_source=newsfromscience&utm_medium=twitter&utm_campaign=firstwave-2361][Here’s the first person to spot those gravitational waves]] /(added 2016-03-26)/
 - [[http://shitmyreviewerssay.tumblr.com/][Shit My Reviewers Say]] /(added 2016-03-11)/
