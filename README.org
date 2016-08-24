@@ -5,11 +5,11 @@
 
 * Science
 - [[http://www.nytimes.com/2016/07/31/opinion/sunday/what-babies-know-about-physics-and-foreign-languages.html?_r=0][What Babies Know About Physics and Foreign Languages]] /(added 2016-08-05)/
-- [[http://www.sciencemag.org/news/2016/02/here-s-first-person-spot-those-gravitational-waves?utm_source=newsfromscience&utm_medium=twitter&utm_campaign=firstwave-2361][Here’s the first person to spot those gravitational waves]] /(added 2016-03-26)/
 - [[http://shitmyreviewerssay.tumblr.com/][Shit My Reviewers Say]] /(added 2016-03-11)/
-- [[http://discovermagazine.com/2007/nov/the-man-who-imagined-wormholes-and-schooled-hawking/][The Man Who Imagined Wormholes and Schooled Hawking]] /(added 2016-02-27)/
 ** Astrophysics
 - [[http://www.antipope.org/charlie/blog-static/2016/08/san-trombone-exoplanet-reality.html][Sad Trombone Exoplanet Reality Check - Charlie's Diary]] /(added 2016-08-24)/
+- [[http://www.sciencemag.org/news/2016/02/here-s-first-person-spot-those-gravitational-waves?utm_source=newsfromscience&utm_medium=twitter&utm_campaign=firstwave-2361][Here’s the first person to spot those gravitational waves]] /(added 2016-03-26)/
+- [[http://discovermagazine.com/2007/nov/the-man-who-imagined-wormholes-and-schooled-hawking/][The Man Who Imagined Wormholes and Schooled Hawking]] /(added 2016-02-27)/
 ** Double beta decay
 - [[http://arxiv.org/abs/1601.07266][First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200]] /(added 2016-02-12)/
 - [[http://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle][Is the neutrino its own antiparticle? | symmetry magazine ]] /(added 2016-01-21)/
@@ -117,7 +117,6 @@
 * To be looked later
 - [[https://www.fourmilab.ch/etexts/einstein/specrel/www/][On the Electrodynamics of Moving Bodies]] /(added 2016-07-27)/
 - [[http://www.npr.org/sections/13.7/2016/06/28/483805061/has-physics-gotten-something-really-important-really-wrong][Has Physics Gotten Something Really Important Really Wrong?]] /(added 2016-07-10)/
-- [[][Let’s make peer review scientific : Nature News & Comment]] /(added 2016-07-07)/
 - [[http://vms.fnal.gov/asset/detail?recid=1943068][Introduction to neutrino oscillations (video)]] /(added 2016-07-03)/
 - [[http://www.nature.com/articles/srep28263][Relativistic-microwave theory of ball lightning : Scientific Reports]] /(added 2016-07-03)/
 - [[https://www.quantamagazine.org/20160419-string-inflation-triangles/][Physicists Hunt For The Big Bang’s Triangles]] /(added 2016-07-03)/
