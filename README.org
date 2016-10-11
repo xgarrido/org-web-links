@@ -126,6 +126,7 @@
 - [[https://github.com/rcaloras/bashhub-client][Bash/zsh history in the cloud]] /(added 2015-12-08)/
 - [[https://github.com/pindexis/qfc][Quick command line file completion]] /(added 2015-12-01)/
 * To be looked later
+- [[http://www.nytimes.com/2016/09/18/opinion/sunday/the-difference-between-rationality-and-intelligence.html?_r=0][The Difference Between Rationality and Intelligence - The New York Times]] /(added 2016-10-11)/
 - [[https://www.quantamagazine.org/20160719-time-and-cosmology/][A Debate Over the Physics of Time | Quanta Magazine]] /(added 2016-10-11)/
 - [[https://www.fourmilab.ch/etexts/einstein/specrel/www/][On the Electrodynamics of Moving Bodies]] /(added 2016-07-27)/
 - [[http://www.npr.org/sections/13.7/2016/06/28/483805061/has-physics-gotten-something-really-important-really-wrong][Has Physics Gotten Something Really Important Really Wrong?]] /(added 2016-07-10)/
