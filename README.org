@@ -32,6 +32,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://github.com/shd101wyy/markdown-preview-enhanced][shd101wyy/markdown-preview-enhanced: One of the 'BEST' markdown preview extensions for Atom editor!]] /(added 2016-10-16)/
 - [[https://github.com/xriley/Orbit-Theme][xriley/Orbit-Theme: FREE Responsive Resume/CV Template for Developers -]] /(added 2016-10-10)/
 - [[http://arohatgi.info/WebPlotDigitizer/app/][WebPlotDigitizer]] /(added 2016-06-23)/
 - [[https://mathics.github.io/][Mathics, a free, light-weight alternative to Mathematica]] /(added 2016-04-09)/
