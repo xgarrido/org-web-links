@@ -107,6 +107,7 @@
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/
 - [[http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html][Drowning in Email; mu4e to the Rescue. ]] /(added 2015-12-02)/
 *** org-mode
+- [[https://github.com/gregsexton/ob-ipython][gregsexton/ob-ipython: org-babel integration with Jupyter for evaluation of (Python by default) code blocks]] /(added 2016-12-31)/
 - [[https://github.com/vkazanov/toy-orgfuse][vkazanov/toy-orgfuse: Orgfuse is a small Python utility allowing to mount org-mode files as FUSE filesystems]] /(added 2016-11-28)/
 - [[http://scripter.co/how-i-created-this-blog/][How I Created this Blog · A Scripter's Notes]] /(added 2016-10-14)/
 - [[https://www.miskatonic.org/2016/08/25/image-display-size-in-org/][Image display size in Org]] /(added 2016-08-27)/
