@@ -4,8 +4,6 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
-** Neutrino physics
-- [[http://nuisance.hepforge.org/][NUISANCE – NUISANCE aims to provide a coherent framework for comparing neutrino generators to external data.]] /(added 2017-01-06)/
 - [[https://las.iastate.edu/isu-physicists-help-demonstrate-existence-of-new-subatomic-structure/][ISU physicists help demonstrate existence of new subatomic structure]] /(added 2016-11-06)/
 - [[https://see.stanford.edu/Course/EE261][Stanford Engineering Everywhere | EE261 - The Fourier Transform and its Applications]] /(added 2016-09-12)/
 - [[http://www.nytimes.com/2016/07/31/opinion/sunday/what-babies-know-about-physics-and-foreign-languages.html?_r=0][What Babies Know About Physics and Foreign Languages]] /(added 2016-08-05)/
@@ -16,9 +14,13 @@
 - [[http://www.antipope.org/charlie/blog-static/2016/08/san-trombone-exoplanet-reality.html][Sad Trombone Exoplanet Reality Check - Charlie's Diary]] /(added 2016-08-24)/
 - [[http://www.sciencemag.org/news/2016/02/here-s-first-person-spot-those-gravitational-waves?utm_source=newsfromscience&utm_medium=twitter&utm_campaign=firstwave-2361][Here’s the first person to spot those gravitational waves]] /(added 2016-03-26)/
 - [[http://discovermagazine.com/2007/nov/the-man-who-imagined-wormholes-and-schooled-hawking/][The Man Who Imagined Wormholes and Schooled Hawking]] /(added 2016-02-27)/
-** Double beta decay
+
+** Neutrino physics
+- [[http://nuisance.hepforge.org/][NUISANCE – NUISANCE aims to provide a coherent framework for comparing neutrino generators to external data.]] /(added 2017-01-06)/
+*** Double beta decay
 - [[http://arxiv.org/abs/1601.07266][First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200]] /(added 2016-02-12)/
 - [[http://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle][Is the neutrino its own antiparticle? | symmetry magazine ]] /(added 2016-01-21)/
+
 ** Quantum mechanics
 - [[https://lejournal.cnrs.fr/articles/donner-du-sens-a-la-mecanique-quantique][Donner du sens à la mécanique quantique | CNRS Le journal]] /(added 2016-03-12)/
 - [[http://www.sciencealert.com/physicists-have-broken-the-record-for-the-most-accurate-clock-ever-built][Physicists have broken the record for the most accurate clock ever built]] /(added 2016-02-12)/
