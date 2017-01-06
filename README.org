@@ -4,6 +4,8 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+** Neutrino physics
+- [[http://nuisance.hepforge.org/][NUISANCE – NUISANCE aims to provide a coherent framework for comparing neutrino generators to external data.]] /(added 2017-01-06)/
 - [[https://las.iastate.edu/isu-physicists-help-demonstrate-existence-of-new-subatomic-structure/][ISU physicists help demonstrate existence of new subatomic structure]] /(added 2016-11-06)/
 - [[https://see.stanford.edu/Course/EE261][Stanford Engineering Everywhere | EE261 - The Fourier Transform and its Applications]] /(added 2016-09-12)/
 - [[http://www.nytimes.com/2016/07/31/opinion/sunday/what-babies-know-about-physics-and-foreign-languages.html?_r=0][What Babies Know About Physics and Foreign Languages]] /(added 2016-08-05)/
