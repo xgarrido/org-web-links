@@ -88,6 +88,7 @@
 - [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
+- [[https://ekaschalk.github.io/post/prettify-mode/][Mathematical Notation in Emacs · Eric Kaschalk]] /(added 2017-02-20)/
 - [[https://www.reddit.com/r/emacs/comments/5jh7rx/solved_using_emacs_to_minify_js_and_css/][Solved: Using Emacs to minify js and css : emacs]] /(added 2016-12-21)/
 - [[https://github.com/domtronn/all-the-icons.el][domtronn/all-the-icons.el: A utility package to collect various Icon Fonts and propertize them within Emacs.]] /(added 2016-10-04)/
 - [[https://github.com/bastibe/annotate.el][bastibe/annotate.el: Annotate.el]] /(added 2016-09-28)/
