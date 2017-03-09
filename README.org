@@ -15,6 +15,7 @@
 - [[http://www.sciencemag.org/news/2016/02/here-s-first-person-spot-those-gravitational-waves?utm_source=newsfromscience&utm_medium=twitter&utm_campaign=firstwave-2361][Here’s the first person to spot those gravitational waves]] /(added 2016-03-26)/
 - [[http://discovermagazine.com/2007/nov/the-man-who-imagined-wormholes-and-schooled-hawking/][The Man Who Imagined Wormholes and Schooled Hawking]] /(added 2016-02-27)/
 ** Neutrino physics
+- [[https://arxiv.org/abs/1702.03341][1702.03341: NU-SETI: A Proposal to Detect Extra-Terrestrial Signals Carried by Neutrinos]] /(added 2017-03-09)/
 - [[http://nuisance.hepforge.org/][NUISANCE – NUISANCE aims to provide a coherent framework for comparing neutrino generators to external data.]] /(added 2017-01-06)/
 *** Double beta decay
 - [[http://arxiv.org/abs/1601.07266][First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200]] /(added 2016-02-12)/
