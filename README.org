@@ -9,6 +9,7 @@
 - [[http://www.nytimes.com/2016/07/31/opinion/sunday/what-babies-know-about-physics-and-foreign-languages.html?_r=0][What Babies Know About Physics and Foreign Languages]] /(added 2016-08-05)/
 - [[http://shitmyreviewerssay.tumblr.com/][Shit My Reviewers Say]] /(added 2016-03-11)/
 ** Astrophysics
+- [[http://cosmos.nautil.us/short/144/the-physicist-who-denies-that-dark-matter-exists][Cosmos on Nautilus: Is Dark Matter our Generation's Ether?]] /(added 2017-03-10)/
 - [[https://lejournal.cnrs.fr/billets/le-paradoxe-de-fermi-et-les-extraterrestres-invisibles][Le paradoxe de Fermi et les extraterrestres invisibles]] /(added 2016-09-10)/
 - [[http://www.centauri-dreams.org/?p=36248][An Interesting SETI Candidate in Hercules]] /(added 2016-08-29)/
 - [[http://www.antipope.org/charlie/blog-static/2016/08/san-trombone-exoplanet-reality.html][Sad Trombone Exoplanet Reality Check - Charlie's Diary]] /(added 2016-08-24)/
