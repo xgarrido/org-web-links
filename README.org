@@ -70,6 +70,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/ibab/root_pandas][ibab/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-05-08)/
 - [[http://www.labri.fr/perso/nrougier/from-python-to-numpy/][From Python to Numpy]] /(added 2017-01-09)/
 - [[http://www.science-emergence.com/Articles/Tutoriel-Matplotlib/][Tutoriel Matplotlib]] /(added 2016-09-28)/
 - [[https://access.redhat.com/blogs/766093/posts/2592591][A bite of Python]] /(added 2016-09-08)/
