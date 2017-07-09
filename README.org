@@ -70,6 +70,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://sadanand-singh.github.io/posts/svmpython/][Understanding Support Vector Machine via Examples | Sadanand's Notes]] /(added 2017-07-09)/
 - [[https://sultan.readthedocs.io/en/latest/][Sultan — Sultan 0.5.1 documentation]] /(added 2017-06-12)/
 - [[http://mpld3.github.io/index.html][mpld3 — Bringing Matplotlib to the Browser]] /(added 2017-05-16)/
 - [[https://github.com/ibab/root_pandas][ibab/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-05-08)/
