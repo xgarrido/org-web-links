@@ -70,6 +70,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://spandan-madan.github.io/DeepLearningProject/][Deep_Learning_Project]] /(added 2017-07-17)/
 - [[https://seashells.io/][Seashells]] /(added 2017-07-11)/
 - [[https://sadanand-singh.github.io/posts/svmpython/][Understanding Support Vector Machine via Examples | Sadanand's Notes]] /(added 2017-07-09)/
 - [[https://sultan.readthedocs.io/en/latest/][Sultan — Sultan 0.5.1 documentation]] /(added 2017-06-12)/
