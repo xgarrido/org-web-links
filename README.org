@@ -22,6 +22,7 @@
 - [[http://arxiv.org/abs/1601.07266][First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200]] /(added 2016-02-12)/
 - [[http://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle][Is the neutrino its own antiparticle? | symmetry magazine ]] /(added 2016-01-21)/
 ** Quantum mechanics
+- [[https://www.newscientist.com/article/2097199-seven-ways-to-skin-schrodingers-cat/][Seven ways to skin Schrödinger’s cat | New Scientist]] /(added 2017-10-02)/
 - [[https://lejournal.cnrs.fr/articles/donner-du-sens-a-la-mecanique-quantique][Donner du sens à la mécanique quantique | CNRS Le journal]] /(added 2016-03-12)/
 - [[http://www.sciencealert.com/physicists-have-broken-the-record-for-the-most-accurate-clock-ever-built][Physicists have broken the record for the most accurate clock ever built]] /(added 2016-02-12)/
 - [[https://plus.maths.org/content/purifying-physics-quest-explain-why-quantum-exists][Purifying Physics: The quest to explain why the "quantum" exists]] /(added 2016-01-01)/
