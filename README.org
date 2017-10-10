@@ -128,6 +128,7 @@
 - [[http://zmalltalker.com/linux/mu.html][mu configuration sample]] /(added 2015-12-22)/
 - [[http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html][Drowning in Email; mu4e to the Rescue. ]] /(added 2015-12-02)/
 *** org-mode
+- [[http://kitchingroup.cheme.cmu.edu/blog/2017/01/21/Exporting-org-mode-to-Jupyter-notebooks/][Exporting org-mode to Jupyter notebooks]] /(added 2017-10-10)/
 - [[https://gjhenrique.com/meta.html][Blogging with org-mode and Gitlab Pages]] /(added 2017-10-02)/
 - [[http://pragmaticemacs.com/emacs/export-org-mode-headlines-to-separate-files/][Export org-mode headlines to separate files | Pragmatic Emacs]] /(added 2017-03-16)/
 - [[https://github.com/cute-jumper/org-table-sticky-header][cute-jumper/org-table-sticky-header: Sticky header for org-mode tables]] /(added 2017-02-21)/
