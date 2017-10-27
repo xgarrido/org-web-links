@@ -49,6 +49,7 @@
 - [[http://bennettfeely.com/image-effects/][Image Effects with CSS]] /(added 2016-11-26)/
 - [[https://ring.cx/][Ring | Ring gives you a full control over your communications and an unmatched level of privacy.]] /(added 2016-11-05)/
 - [[https://github.com/knsv/mermaid][knsv/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown]] /(added 2016-10-16)/
+- [[https://stackoverflow.com/questions/5667884/how-to-squash-commits-in-git-after-they-have-been-pushed][How to squash commits in git after they have been pushed? - Stack Overflow]] /(added 2017-10-27)/
 - [[https://github.com/shd101wyy/markdown-preview-enhanced][shd101wyy/markdown-preview-enhanced: One of the 'BEST' markdown preview extensions for Atom editor!]] /(added 2016-10-16)/
 - [[https://github.com/xriley/Orbit-Theme][xriley/Orbit-Theme: FREE Responsive Resume/CV Template for Developers -]] /(added 2016-10-10)/
 - [[http://arohatgi.info/WebPlotDigitizer/app/][WebPlotDigitizer]] /(added 2016-06-23)/
