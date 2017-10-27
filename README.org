@@ -43,6 +43,7 @@
 * Coding
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://qntm.org/suicide][Suicide Linux @ Things Of Interest]] /(added 2017-10-27)/
 - [[http://www.vidarholen.net/contents/blog/?p=479][Vidar’s Blog » dd is not a disk writing tool]] /(added 2017-01-08)/
 ** CSS
 - [[http://bennettfeely.com/image-effects/][Image Effects with CSS]] /(added 2016-11-26)/
