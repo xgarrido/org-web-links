@@ -105,6 +105,7 @@
 - [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
+- [[http://cherian.net/posts/bokeh-org-mode.html][bokeh and Emacs org-mode]] /(added 2017-11-05)/
 - [[https://github.com/wasamasa/nov.el][wasamasa/nov.el: Major mode for reading EPUBs in Emacs]] /(added 2017-09-08)/
 - [[https://oremacs.com/2017/03/28/emacs-cpp-ide/][Using Emacs as a C++ IDE · (or emacs]] /(added 2017-03-29)/
 - [[https://ekaschalk.github.io/post/prettify-mode/][Mathematical Notation in Emacs · Eric Kaschalk]] /(added 2017-02-20)/
