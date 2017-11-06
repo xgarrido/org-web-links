@@ -41,6 +41,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
 - [[https://qntm.org/suicide][Suicide Linux @ Things Of Interest]] /(added 2017-10-27)/
