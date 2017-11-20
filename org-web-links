@@ -13,14 +13,14 @@ function notify ()
     case $1 in
         error)
             prefix="\\033[0;31mERROR: "
-            options="-t 5000 -h \"string:bgcolor:#DC322F\""
+            options="-t 5000 -i gtk-stop -h \"string:bgcolor:#DC322F\""
             ;;
         debug)
             prefix="\\033[0;32mDEBUG: "
             ;;
         notice)
             prefix="\\033[0;34mNOTICE: "
-            options="-t 5000 -h \"string:bgcolor:#859900\""
+            options="-t 5000 -i gtk-info -h \"string:bgcolor:#859900\""
             ;;
     esac
     echo -e $prefix "${@:2}\\033[0;39m"
