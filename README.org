@@ -46,6 +46,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[][tizonia/tizonia-openmax-il: Cloud music player for the Linux console that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.]] /(added 2017-12-01)/
 - [[https://qntm.org/suicide][Suicide Linux @ Things Of Interest]] /(added 2017-10-27)/
 - [[http://www.vidarholen.net/contents/blog/?p=479][Vidar’s Blog » dd is not a disk writing tool]] /(added 2017-01-08)/
 ** CSS
