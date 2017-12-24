@@ -167,6 +167,7 @@
 - [[http://orgmode.org/manual/noweb_002dref.html#noweb_002dref][noweb-ref - The Org Manual ]] /(added 2015-12-23)/
 - [[http://irreal.org/blog/?p=4735][Asynchronous Python in Org Mode]] /(added 2015-12-02)/
 ** zsh
+- [[ ][Summon by cyberark]] /(added 2017-12-24)/
 - [[][presentations/presentation.rst at master · zsh]] /(added 2017-10-17)/
 - [[https://asciinema.org/a/46341][Multi word history search for Zsh]] /(added 2016-06-22)/
 - [[https://asciinema.org/a/45530][Ztrace]] /(added 2016-06-22)/
