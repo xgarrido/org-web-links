@@ -80,6 +80,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[+local:docker][scikit-hep/uproot: Minimalist ROOT I/O in pure Python and Numpy.]] /(added 2017-12-25)/
 - [[pyram][Welcome to Pyrame’s documentation! — Pyrame documentation]] /(added 2017-11-20)/
 - [[https://github.com/pypa/twine][pypa/twine: Utilities for interacting with PyPI]] /(added 2017-11-12)/
 - [[https://github.com/nemanja-m/gaps][nemanja-m/gaps: A Genetic Algorithm-Based Solver for Jigsaw Puzzles]] /(added 2017-09-21)/
