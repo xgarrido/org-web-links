@@ -83,6 +83,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[][Uploading music to Google Play Music from the command line using gmusicapi | Nertant]] /(added 2018-01-01)/
 - [[][scikit-hep/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-12-25)/
 - [[+local:docker][scikit-hep/uproot: Minimalist ROOT I/O in pure Python and Numpy.]] /(added 2017-12-25)/
 - [[pyram][Welcome to Pyrame’s documentation! — Pyrame documentation]] /(added 2017-11-20)/
