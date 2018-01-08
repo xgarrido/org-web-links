@@ -45,6 +45,7 @@
 * Coding
 - [[From Bootstrap to CSS Grid – Times Open ][From Bootstrap to CSS Grid – Times Open]] /(added 2017-12-29)/
 ** docker
+- [[][shell - How to check if a process is running inside docker container - Stack Overflow]] /(added 2018-01-08)/
 - [[git@gitlab.in2p3.fr:xgarrido/CAMEL.git][MaitresNageurs / PiscineJI · GitLab]] /(added 2017-12-26)/
 - [[][Singularity | Singularity]] /(added 2017-12-13)/
 - [[][Binder (beta) - Turn a Github repo into a collection of interactive notebooks]] /(added 2017-11-28)/
