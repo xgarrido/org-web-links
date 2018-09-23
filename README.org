@@ -25,6 +25,7 @@
 - [[http://arxiv.org/abs/1601.07266][First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200]] /(added 2016-02-12)/
 - [[http://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle][Is the neutrino its own antiparticle? | symmetry magazine ]] /(added 2016-01-21)/
 ** Quantum mechanics
+- [[https://uwaterloo.ca/institute-for-quantum-computing/sites/ca.institute-for-quantum-computing/files/uploads/files/mathematics_qm_v21.pdf][Mathematics for Quantum Mechanics]] /(added 2018-09-23)/
 - [[https://www.newscientist.com/article/2097199-seven-ways-to-skin-schrodingers-cat/][Seven ways to skin Schrödinger’s cat | New Scientist]] /(added 2017-10-02)/
 - [[https://lejournal.cnrs.fr/articles/donner-du-sens-a-la-mecanique-quantique][Donner du sens à la mécanique quantique | CNRS Le journal]] /(added 2016-03-12)/
 - [[http://www.sciencealert.com/physicists-have-broken-the-record-for-the-most-accurate-clock-ever-built][Physicists have broken the record for the most accurate clock ever built]] /(added 2016-02-12)/
@@ -52,7 +53,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
-- [[][tizonia/tizonia-openmax-il: Cloud music player for the Linux console that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.]] /(added 2017-12-01)/
+- [[http://tizonia.org/][tizonia/tizonia-openmax-il: Cloud music player for the Linux console that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.]] /(added 2017-12-01)/
 - [[https://qntm.org/suicide][Suicide Linux @ Things Of Interest]] /(added 2017-10-27)/
 - [[http://www.vidarholen.net/contents/blog/?p=479][Vidar’s Blog » dd is not a disk writing tool]] /(added 2017-01-08)/
 ** CSS
