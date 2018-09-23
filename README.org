@@ -45,10 +45,10 @@
 * Coding
 - [[From Bootstrap to CSS Grid – Times Open ][From Bootstrap to CSS Grid – Times Open]] /(added 2017-12-29)/
 ** docker
-- [[][shell - How to check if a process is running inside docker container - Stack Overflow]] /(added 2018-01-08)/
+- [[https://stackoverflow.com/questions/23513045/how-to-check-if-a-process-is-running-inside-docker-container][shell - How to check if a process is running inside docker container - Stack Overflow]] /(added 2018-01-08)/
 - [[git@gitlab.in2p3.fr:xgarrido/CAMEL.git][MaitresNageurs / PiscineJI · GitLab]] /(added 2017-12-26)/
-- [[][Singularity | Singularity]] /(added 2017-12-13)/
-- [[][Binder (beta) - Turn a Github repo into a collection of interactive notebooks]] /(added 2017-11-28)/
+- [[https://singularity.lbl.gov/][Singularity | Singularity]] /(added 2017-12-13)/
+- [[https://mybinder.org/][Binder (beta) - Turn a Github repo into a collection of interactive notebooks]] /(added 2017-11-28)/
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
@@ -67,6 +67,7 @@
 - [[https://mathics.github.io/][Mathics, a free, light-weight alternative to Mathematica]] /(added 2016-04-09)/
 - [[http://www.symmetrymagazine.org/article/the-next-big-lhc-upgrade-software?utm_source=main_feed_click&utm_medium=rss&utm_campaign=main_feed&utm_content=click][The next big LHC upgrade? Software.]] /(added 2016-03-29)/
 ** git
+- [[https://stackoverflow.com/questions/43295151/creating-a-branch-from-issue-in-gitlab][branching and merging - Creating a branch from issue in GitLab - Stack Overflow]] /(added 2018-09-23)/
 - [[https://lgtm.co/][LGTM : Simple Approvals for Pull Requests]] /(added 2016-07-19)/
 ** golang
 - [[https://blog.jessfraz.com/post/docker-containers-on-the-desktop/][Jessie Frazelle's Blog: Docker Containers on the Desktop]] /(added 2016-08-24)/
@@ -85,8 +86,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
-- [[][Uploading music to Google Play Music from the command line using gmusicapi | Nertant]] /(added 2018-01-01)/
-- [[][scikit-hep/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-12-25)/
+- [[https://github.com/scikit-hep/root_pandas][scikit-hep/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-12-25)/
 - [[+local:docker][scikit-hep/uproot: Minimalist ROOT I/O in pure Python and Numpy.]] /(added 2017-12-25)/
 - [[pyram][Welcome to Pyrame’s documentation! — Pyrame documentation]] /(added 2017-11-20)/
 - [[https://github.com/pypa/twine][pypa/twine: Utilities for interacting with PyPI]] /(added 2017-11-12)/
