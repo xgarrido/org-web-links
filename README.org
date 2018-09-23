@@ -87,8 +87,9 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/TheAlgorithms/Python][TheAlgorithms/Python: All Algorithms implemented in Python]] /(added 2018-09-23)/
 - [[https://github.com/scikit-hep/root_pandas][scikit-hep/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-12-25)/
-- [[+local:docker][scikit-hep/uproot: Minimalist ROOT I/O in pure Python and Numpy.]] /(added 2017-12-25)/
+- [[https://github.com/scikit-hep/uproot][scikit-hep/uproot: Minimalist ROOT I/O in pure Python and Numpy.]] /(added 2017-12-25)/
 - [[pyram][Welcome to Pyrame’s documentation! — Pyrame documentation]] /(added 2017-11-20)/
 - [[https://github.com/pypa/twine][pypa/twine: Utilities for interacting with PyPI]] /(added 2017-11-12)/
 - [[https://github.com/nemanja-m/gaps][nemanja-m/gaps: A Genetic Algorithm-Based Solver for Jigsaw Puzzles]] /(added 2017-09-21)/
@@ -176,8 +177,7 @@
 - [[http://orgmode.org/manual/noweb_002dref.html#noweb_002dref][noweb-ref - The Org Manual ]] /(added 2015-12-23)/
 - [[http://irreal.org/blog/?p=4735][Asynchronous Python in Org Mode]] /(added 2015-12-02)/
 ** zsh
-- [[ ][Summon by cyberark]] /(added 2017-12-24)/
-- [[][presentations/presentation.rst at master · zsh]] /(added 2017-10-17)/
+- [[https://github.com/cyberark/summon][Summon by cyberark]] /(added 2017-12-24)/
 - [[https://asciinema.org/a/46341][Multi word history search for Zsh]] /(added 2016-06-22)/
 - [[https://asciinema.org/a/45530][Ztrace]] /(added 2016-06-22)/
 - [[https://medium.com/@robbyrussell/d-oh-my-zsh-af99ca54212c#.70etbrl37][d’Oh My Zsh]] /(added 2016-03-24)/
