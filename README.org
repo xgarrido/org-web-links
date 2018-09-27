@@ -10,6 +10,7 @@
 - [[http://www.nytimes.com/2016/07/31/opinion/sunday/what-babies-know-about-physics-and-foreign-languages.html?_r=0][What Babies Know About Physics and Foreign Languages]] /(added 2016-08-05)/
 - [[http://shitmyreviewerssay.tumblr.com/][Shit My Reviewers Say]] /(added 2016-03-11)/
 ** Astrophysics
+- [[https://arxiv.org/abs/1603.05218][1603.05218: Characteristics of Four Upward-pointing Cosmic-ray-like Events Observed with ANITA]] /(added 2018-09-27)/
 - [[https://arstechnica.com/science/2017/10/colliding-neutron-stars-decapitate-zombie-theory-of-gravity/][Colliding neutron stars apply kiss of death to theories of gravity | Ars Technica]] /(added 2017-10-26)/
 - [[http://cosmos.nautil.us/short/144/the-physicist-who-denies-that-dark-matter-exists][Cosmos on Nautilus: Is Dark Matter our Generation's Ether?]] /(added 2017-03-10)/
 - [[https://lejournal.cnrs.fr/billets/le-paradoxe-de-fermi-et-les-extraterrestres-invisibles][Le paradoxe de Fermi et les extraterrestres invisibles]] /(added 2016-09-10)/
@@ -53,6 +54,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://www.bbc.com/news/technology-45664640][Linus Torvalds: 'I'll never be cuddly but I can be more polite' - BBC News]] /(added 2018-09-27)/
 - [[http://tizonia.org/][tizonia/tizonia-openmax-il: Cloud music player for the Linux console that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.]] /(added 2017-12-01)/
 - [[https://qntm.org/suicide][Suicide Linux @ Things Of Interest]] /(added 2017-10-27)/
 - [[http://www.vidarholen.net/contents/blog/?p=479][Vidar’s Blog » dd is not a disk writing tool]] /(added 2017-01-08)/
