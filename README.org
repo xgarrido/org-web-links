@@ -92,6 +92,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/][Announcing Camelot, a Python Library to Extract Tabular Data from PDFs - SocialCops]] /(added 2018-10-12)/
 - [[http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/][Asterisks in Python: what they are and how to use them - Trey Hunner]] /(added 2018-10-12)/
 - [[https://github.com/TheAlgorithms/Python][TheAlgorithms/Python: All Algorithms implemented in Python]] /(added 2018-09-23)/
 - [[https://github.com/scikit-hep/root_pandas][scikit-hep/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-12-25)/
