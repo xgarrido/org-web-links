@@ -56,6 +56,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://www.gnu.org/software/guix/blog/2018/a-packaging-tutorial-for-guix/][A packaging tutorial for Guix — 2018 — Blog — GuixSD]] /(added 2018-10-11)/
 - [[https://www.bbc.com/news/technology-45664640][Linus Torvalds: 'I'll never be cuddly but I can be more polite' - BBC News]] /(added 2018-09-27)/
 - [[http://tizonia.org/][tizonia/tizonia-openmax-il: Cloud music player for the Linux console that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.]] /(added 2017-12-01)/
 - [[https://qntm.org/suicide][Suicide Linux @ Things Of Interest]] /(added 2017-10-27)/
@@ -91,6 +92,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/][Asterisks in Python: what they are and how to use them - Trey Hunner]] /(added 2018-10-12)/
 - [[https://github.com/TheAlgorithms/Python][TheAlgorithms/Python: All Algorithms implemented in Python]] /(added 2018-09-23)/
 - [[https://github.com/scikit-hep/root_pandas][scikit-hep/root_pandas: A Python module for conveniently loading/saving ROOT files as pandas DataFrames]] /(added 2017-12-25)/
 - [[https://github.com/scikit-hep/uproot][scikit-hep/uproot: Minimalist ROOT I/O in pure Python and Numpy.]] /(added 2017-12-25)/
