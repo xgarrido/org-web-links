@@ -131,6 +131,7 @@
 - [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
+- [[https://www.reddit.com/r/emacs/comments/9sz0ql/make_emacs_open_files_at_specific_line_numbers_as/][Make emacs open files at specific line numbers as outputted by grep and other shell commands : emacs]] /(added 2018-10-31)/
 - [[http://cherian.net/posts/bokeh-org-mode.html][bokeh and Emacs org-mode]] /(added 2017-11-05)/
 - [[https://emacs.stackexchange.com/questions/31999/config-examples-and-use-cases-of-library-of-babel/32003][org mode - Config, examples and use cases of Library Of Babel - Emacs Stack Exchange]] /(added 2018-10-22)/
 - [[https://github.com/wasamasa/nov.el][wasamasa/nov.el: Major mode for reading EPUBs in Emacs]] /(added 2017-09-08)/
