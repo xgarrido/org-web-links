@@ -95,6 +95,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://heartbeat.fritz.ai/using-a-keras-long-shortterm-memory-lstm-model-to-predict-stock-prices-a08c9f69aa74][Using a Keras Long Short-Term Memory (LSTM) Model to Predict Stock Prices]] /(added 2018-11-09)/
 - [[https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html][Deep_Learning_Project-Pytorch]] /(added 2018-10-25)/
 - [[https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/][Announcing Camelot, a Python Library to Extract Tabular Data from PDFs - SocialCops]] /(added 2018-10-12)/
 - [[http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/][Asterisks in Python: what they are and how to use them - Trey Hunner]] /(added 2018-10-12)/
