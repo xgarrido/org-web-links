@@ -95,6 +95,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/karan/Projects-Solutions][karan/Projects-Solutions: Links to others' solutions to Projects (https://github.com/karan/Projects/)]] /(added 2018-11-21)/
 - [[https://cobaya.readthedocs.io/en/latest/index.html][Cobaya, a code for Bayesian analysis in Cosmology — cobaya 1.0.3 documentation]] /(added 2018-11-15)/
 - [[https://heartbeat.fritz.ai/using-a-keras-long-shortterm-memory-lstm-model-to-predict-stock-prices-a08c9f69aa74][Using a Keras Long Short-Term Memory (LSTM) Model to Predict Stock Prices]] /(added 2018-11-09)/
 - [[https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html][Deep_Learning_Project-Pytorch]] /(added 2018-10-25)/
