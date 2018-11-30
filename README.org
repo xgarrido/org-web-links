@@ -85,6 +85,7 @@
 ** SN@ilWare
 - [[http://apple.stackexchange.com/questions/164525/what-directory-does-homebrew-use-to-build-programs][What directory does homebrew use to build programs?]] /(added 2016-02-16)/
 ** C++
+- [[https://aws.amazon.com/fr/blogs/compute/introducing-the-c-lambda-runtime/][Introducing the C++ Lambda Runtime | AWS Compute Blog]] /(added 2018-11-30)/
 - [[https://sierra-lang.github.io/][Sierra - A SIMD extension for C++]] /(added 2018-10-30)/
 - [[https://blog.petrzemek.net/2016/08/17/auto-type-deduction-in-range-based-for-loops/][Auto Type Deduction in Range-Based For Loops | Petr Zemek]] /(added 2016-09-02)/
 - [[http://libigl.github.io/libigl/tutorial/tutorial.html#meshrepresentation][libigl Tutorial]] /(added 2016-08-29)/
