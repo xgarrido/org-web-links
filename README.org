@@ -97,6 +97,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/santinic/pampy/blob/master/README.md][pampy/README.md at master · santinic/pampy]] /(added 2018-12-17)/
 - [[https://gkbrk.com/2018/12/free-hotel-wifi-with-python-and-selenium/][Free Hotel Wifi with Python and Selenium · Gokberk Yaltirakli]] /(added 2018-12-13)/
 - [[https://github.com/OpenMined/PySyft/tree/master/examples/tutorials][PySyft/examples/tutorials at master · OpenMined/PySyft]] /(added 2018-12-04)/
 - [[https://github.com/karan/Projects-Solutions][karan/Projects-Solutions: Links to others' solutions to Projects (https://github.com/karan/Projects/)]] /(added 2018-11-21)/
