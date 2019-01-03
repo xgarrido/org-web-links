@@ -4,6 +4,8 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+** Machine Learnig & co
+- [[http://blog.christianperone.com/2019/01/a-sane-introduction-to-maximum-likelihood-estimation-mle-and-maximum-a-posteriori-map/][A sane introduction to maximum likelihood estimation (MLE) and maximum a posteriori (MAP) | Terra Incognita]] /(added 2019-01-03)/
 - [[https://lejournal.cnrs.fr/articles/le-principe-dequivalence-a-lepreuve][Le principe d’équivalence à l’épreuve | CNRS Le journal]] /(added 2017-11-20)/
 - [[https://las.iastate.edu/isu-physicists-help-demonstrate-existence-of-new-subatomic-structure/][ISU physicists help demonstrate existence of new subatomic structure]] /(added 2016-11-06)/
 - [[https://see.stanford.edu/Course/EE261][Stanford Engineering Everywhere | EE261 - The Fourier Transform and its Applications]] /(added 2016-09-12)/
