@@ -5,6 +5,7 @@
 
 * Science
 ** Machine Learnig & co
+- [[https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb][mit-deep-learning/tutorial_driving_scene_segmentation.ipynb at master · lexfridman/mit-deep-learning]] /(added 2019-01-08)/
 - [[http://katbailey.github.io/post/gaussian-processes-for-dummies/][Gaussian Processes for Dummies ·]] /(added 2019-01-05)/
 - [[http://blog.christianperone.com/2019/01/a-sane-introduction-to-maximum-likelihood-estimation-mle-and-maximum-a-posteriori-map/][A sane introduction to maximum likelihood estimation (MLE) and maximum a posteriori (MAP) | Terra Incognita]] /(added 2019-01-03)/
 - [[https://lejournal.cnrs.fr/articles/le-principe-dequivalence-a-lepreuve][Le principe d’équivalence à l’épreuve | CNRS Le journal]] /(added 2017-11-20)/
