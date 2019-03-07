@@ -110,6 +110,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://docs.python.org/3/distutils/setupscript.html][2. Writing the Setup Script — Python 3.7.2 documentation]] /(added 2019-03-07)/
 - [[https://stackoverflow.com/questions/14805236/translate-f2py-compile-steps-into-setup-py][distutils - Translate F2PY compile steps into setup.py - Stack Overflow]] /(added 2019-03-07)/
 - [[https://github.com/pypa/pipenv][pypa/pipenv: Python Development Workflow for Humans.]] /(added 2019-02-09)/
 - [[https://github.com/ajschumacher/ajschumacher.github.io/blob/master/20181226-gaussian_processes_are_not_so_fancy/gaussian_processes.ipynb][ajschumacher.github.io/gaussian_processes.ipynb at master · ajschumacher/ajschumacher.github.io]] /(added 2019-01-05)/
