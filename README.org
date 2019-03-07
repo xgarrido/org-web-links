@@ -4,6 +4,8 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+** CMB
+- [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
 ** Machine Learnig & co
 - [[https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb][mit-deep-learning/tutorial_driving_scene_segmentation.ipynb at master · lexfridman/mit-deep-learning]] /(added 2019-01-08)/
 - [[http://katbailey.github.io/post/gaussian-processes-for-dummies/][Gaussian Processes for Dummies ·]] /(added 2019-01-05)/
