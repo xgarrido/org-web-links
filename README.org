@@ -111,6 +111,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/thblt/write-yourself-a-git][thblt/write-yourself-a-git: Learn Git by reimplementing it from scratch]] /(added 2019-03-14)/
 - [[https://shtools.oca.eu/shtools/pywigner3j.html][Wigner3j (Python) | SHTOOLS - Tools for working with spherical harmonics]] /(added 2019-03-07)/
 - [[https://rabernat.github.io/research_computing/parallel-programming-with-mpi-for-python.html][Parallel Programming with MPI For Python - Research Computing in Earth Sciences]] /(added 2019-03-07)/
 - [[https://mpi4py.readthedocs.io/en/stable/tutorial.html][Tutorial — MPI for Python 3.0.1 documentation]] /(added 2019-03-07)/
