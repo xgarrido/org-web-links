@@ -4,6 +4,8 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+** Lectures
+- [[https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html][Structure and Interpretation of Classical Mechanics: Table of Contents]] /(added 2019-04-27)/
 ** CMB
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
 ** Machine Learnig & co
