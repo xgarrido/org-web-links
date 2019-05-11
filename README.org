@@ -116,6 +116,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://benhoyt.com/writings/replacing-google-analytics/][Replacing Google Analytics with GoAccess]] /(added 2019-05-11)/
 - [[https://github.com/PrincetonPy][Princeton University Python Community]] /(added 2019-05-09)/
 - [[https://github.com/thblt/write-yourself-a-git][thblt/write-yourself-a-git: Learn Git by reimplementing it from scratch]] /(added 2019-03-14)/
 - [[https://shtools.oca.eu/shtools/pywigner3j.html][Wigner3j (Python) | SHTOOLS - Tools for working with spherical harmonics]] /(added 2019-03-07)/
