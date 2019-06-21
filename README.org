@@ -58,6 +58,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://bookdown.org/][Home | Bookdown]] /(added 2019-06-21)/
 - [[https://juba.github.io/tidyverse/index.html][Introduction à R et au tidyverse]] /(added 2019-06-21)/
 - [[http://openrefine.org][openrefine.github.com]] /(added 2019-02-25)/
 - [[https://github.com/leon-ai/leon][leon-ai/leon: 🧠 Leon is your open-source personal assistant.]] /(added 2019-02-16)/
