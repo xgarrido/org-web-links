@@ -77,6 +77,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://github.com/turing753/wallblur][turing753/wallblur: Faux wallpaper blurring for linux]] /(added 2019-10-04)/
 - [[https://github.com/marcan/takeover.sh][marcan/takeover.sh: Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.]] /(added 2019-03-11)/
 - [[http://lpan.io/one-liner-dropbox-client/][My one-liner Linux Dropbox client]] /(added 2018-12-25)/
 - [[https://www.linuxondex.com/][Linux on Dex]] /(added 2018-11-08)/
