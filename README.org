@@ -124,6 +124,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://medium.com/learning-machine-learning/present-your-data-science-projects-with-jupyter-slides-75f20735eb0f][Present Your Data Science Projects with Jupyter Notebook Slides!]] /(added 2019-10-06)/
 - [[http://scipy-lectures.org/intro/scipy.html][1.5. Scipy : high-level scientific computing — Scipy lecture notes]] /(added 2019-10-06)/
 - [[https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace][Turn Python Scripts into Beautiful ML Tools - Towards Data Science]] /(added 2019-10-06)/
 - [[https://wordsandbuttons.online/sympy_makes_math_fun_again.html][SymPy makes math fun again]] /(added 2019-06-26)/
