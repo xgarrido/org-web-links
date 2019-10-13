@@ -124,6 +124,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html][Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.3.0 documentation]] /(added 2019-10-13)/
 - [[https://www.youtube.com/watch?v=L91rd1D6XTA][Turn any Notebook into a Deployable Dashboard | SciPy 2019 | James Bednar - YouTube]] /(added 2019-10-06)/
 - [[https://medium.com/learning-machine-learning/present-your-data-science-projects-with-jupyter-slides-75f20735eb0f][Present Your Data Science Projects with Jupyter Notebook Slides!]] /(added 2019-10-06)/
 - [[http://scipy-lectures.org/intro/scipy.html][1.5. Scipy : high-level scientific computing — Scipy lecture notes]] /(added 2019-10-06)/
