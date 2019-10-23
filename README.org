@@ -108,6 +108,7 @@
 ** SN@ilWare
 - [[http://apple.stackexchange.com/questions/164525/what-directory-does-homebrew-use-to-build-programs][What directory does homebrew use to build programs?]] /(added 2016-02-16)/
 ** C++
+- [[http://jakascorner.com/blog/2016/05/omp-for.html][OpenMP: For]] /(added 2019-10-23)/
 - [[https://github.com/PlatformLab/NanoLog][PlatformLab/NanoLog: Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.]] /(added 2019-09-01)/
 - [[https://github.com/xmake-io/xmake][xmake-io/xmake: 🔥 A cross-platform build utility based on Lua]] /(added 2019-04-09)/
 - [[https://github.com/QuantStack/xtensor][QuantStack/xtensor: C++ tensors with broadcasting and lazy computing]] /(added 2019-03-28)/
