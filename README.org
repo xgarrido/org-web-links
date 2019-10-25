@@ -129,6 +129,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/rougier/matplotlib-tutorial][rougier/matplotlib-tutorial: Matplotlib tutorial for beginner]] /(added 2019-10-25)/
 - [[https://www.labri.fr/perso/nrougier/from-python-to-numpy/][From Python to Numpy]] /(added 2019-10-25)/
 - [[https://github.com/julvo/reloading][julvo/reloading: Change Python code while it's running using a reloading loop]] /(added 2019-10-18)/
 - [[https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html][Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.3.0 documentation]] /(added 2019-10-13)/
