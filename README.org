@@ -295,4 +295,5 @@
 - [[https://www.quantamagazine.org/20160324-in-newly-created-life-form-a-major-mystery/][In Newly Created Life-Form, A Major Mystery]] /(added 2016-07-03)/
 - [[https://www.quantamagazine.org/20160621-electron-eating-microbes-found-in-odd-places/][Electron-Eating Microbes Found In Odd Places]] /(added 2016-07-03)/
 * Misc.
+- [[https://www.home-assistant.io/?hn=true][Home Assistant]] /(added 2019-11-29)/
 - [[https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2][Fold N Fly ✈]] /(added 2018-10-19)/
