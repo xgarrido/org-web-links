@@ -132,6 +132,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/mkrphys/ipython-tikzmagic][mkrphys/ipython-tikzmagic: IPython magics for generating figures with TikZ]] /(added 2019-12-13)/
 - [[https://python-poetry.org/][Poetry - Python dependency management and packaging made easy.]] /(added 2019-12-13)/
 - [[https://github.com/rougier/scientific-visualization-book][rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib]] /(added 2019-10-25)/
 - [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833][Ten Simple Rules for Better Figures]] /(added 2019-10-25)/
