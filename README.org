@@ -10,6 +10,7 @@
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
 - [[https://gitlab.com/jD91mZM2/git-subcopy][jD91mZM2 / git-subcopy · GitLab]] /(added 2019-10-27)/
 ** Machine Learnig & co
+- [[https://deeplearning.mit.edu/?fbclid][MIT Deep Learning: Lectures and Tutorials for Introduction to and Overview of the Field]] /(added 2019-12-27)/
 - [[https://yugeten.github.io/posts/2019/09/GP/][Gaussian Processes, not quite for dummies - Yuge Shi]] /(added 2019-09-17)/
 - [[https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb][mit-deep-learning/tutorial_driving_scene_segmentation.ipynb at master · lexfridman/mit-deep-learning]] /(added 2019-01-08)/
 - [[http://katbailey.github.io/post/gaussian-processes-for-dummies/][Gaussian Processes for Dummies ·]] /(added 2019-01-05)/
