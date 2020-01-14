@@ -135,6 +135,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://martinheinz.dev/blog/13][Martin Heinz - Personal Website & Blog]] /(added 2020-01-14)/
 - [[https://github.com/socialpoint-labs/sheetfu][socialpoint-labs/sheetfu: Python library to interact with Google Sheets V4 API]] /(added 2020-01-01)/
 - [[https://github.com/cuemacro/chartpy][cuemacro/chartpy: Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more]] /(added 2019-12-16)/
 - [[https://github.com/mkrphys/ipython-tikzmagic][mkrphys/ipython-tikzmagic: IPython magics for generating figures with TikZ]] /(added 2019-12-13)/
