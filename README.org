@@ -81,6 +81,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://diskprices.com/][Disk Prices on Amazon]] /(added 2020-01-28)/
 - [[https://github.com/TekWizely/run][TekWizely/run: Easily manage and invoke small scripts and wrappers]] /(added 2019-12-18)/
 - [[https://restic.net][restic · Backups done right!]] /(added 2019-11-07)/
 - [[https://www.putorius.net/cluster-ssh.html][Cluster SSH - Manage Multiple Linux Servers Simultaneously - Putorius]] /(added 2019-10-29)/
