@@ -221,6 +221,7 @@
 - [[http://ergoemacs.org/emacs/emacs_upcase_sentence.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+XahsEmacsBlog+(Xah%27s+Emacs+Blog)][Emacs: Upcase Sentences]] /(added 2018-11-02)/
 - [[https://www.reddit.com/r/emacs/comments/9sz0ql/make_emacs_open_files_at_specific_line_numbers_as/][Make emacs open files at specific line numbers as outputted by grep and other shell commands : emacs]] /(added 2018-10-31)/
 - [[http://cherian.net/posts/bokeh-org-mode.html][bokeh and Emacs org-mode]] /(added 2017-11-05)/
+- [[https://github.com/io12/org-fragtog][io12/org-fragtog: Automatically toggle org-mode latex fragment previews as the cursor enters and exits them]] /(added 2020-02-04)/
 - [[https://github.com/jessekelly881/Rethink][jessekelly881/Rethink: Another in the line of beautiful css themes for org exports using professional web development techniques. Targeted at clean, technical content.]] /(added 2020-01-15)/
 - [[https://github.com/jessekelly881/Imagine][jessekelly881/Imagine: A theme for org mode exports using professional web development techniques. Designed to be simple but also creative.]] /(added 2020-01-15)/
 - [[https://acidwords.com/posts/2019-12-04-hangling-chromium-and-firefox-sessions-with-org-mode.html][#:acid 'words: Handle Chromium & Firefox sessions with org-mode]] /(added 2019-12-05)/
