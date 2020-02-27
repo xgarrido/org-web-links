@@ -216,6 +216,7 @@
 - [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
+- [[https://www.reddit.com/r/emacs/comments/fah80q/docorg_orgmode_latex_docker_pdf/][Doc-org: org-mode + latex + docker = pdf : emacs]] /(added 2020-02-27)/
 - [[https://github.com/ahyatt/emacs-calc-tutorials][ahyatt/emacs-calc-tutorials: A series of tutorials about emacs-calc]] /(added 2019-02-07)/
 - [[https://bitbucket.org/zck/zpresent.el][zck / zpresent.el — Bitbucket]] /(added 2019-02-06)/
 - [[http://ergoemacs.org/emacs/emacs_upcase_sentence.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+XahsEmacsBlog+(Xah%27s+Emacs+Blog)][Emacs: Upcase Sentences]] /(added 2018-11-02)/
