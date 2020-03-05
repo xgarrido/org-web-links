@@ -216,6 +216,7 @@
 - [[https://0day.work/hacking-with-latex/][Hacking with LaTeX | Sebastian Neef - 0day.work]] /(added 2016-03-10)/
 - [[https://github.com/matze/mtheme/][Metropolis beamer theme]] /(added 2015-12-09)/
 ** emacs
+- [[http://www.emacs-bootstrap.com/][Emacs Bootstrap]] /(added 2020-03-05)/
 - [[https://www.reddit.com/r/emacs/comments/fah80q/docorg_orgmode_latex_docker_pdf/][Doc-org: org-mode + latex + docker = pdf : emacs]] /(added 2020-02-27)/
 - [[https://github.com/ahyatt/emacs-calc-tutorials][ahyatt/emacs-calc-tutorials: A series of tutorials about emacs-calc]] /(added 2019-02-07)/
 - [[https://bitbucket.org/zck/zpresent.el][zck / zpresent.el — Bitbucket]] /(added 2019-02-06)/
