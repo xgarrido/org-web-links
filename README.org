@@ -61,6 +61,8 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+** javascript
+- [[https://observablehq.com/@d3/learn-d3][Learn D3: Introduction / D3 / Observable]] /(added 2020-03-25)/
 - [[https://repl.it/][Repl.it - Online IDE, Editor, and Compiler - Fast, Powerful, Free]] /(added 2020-03-22)/
 - [[https://github.com/artagnon/clayoven][artagnon/clayoven: 💎 beautiful website generator for math, code, and articles]] /(added 2019-12-15)/
 - [[https://ackee.electerious.com/][Self-hosted website analytics | Ackee]] /(added 2019-09-03)/
