@@ -8,8 +8,7 @@
 - [[https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html][Structure and Interpretation of Classical Mechanics: Table of Contents]] /(added 2019-04-27)/
 ** CMB
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
-- [[https://gitlab.com/jD91mZM2/git-subcopy][jD91mZM2 / git-subcopy · GitLab]] /(added 2019-10-27)/
-** Machine Learnig & co
+** Machine Learning & co
 - [[https://deeplearning.mit.edu/?fbclid][MIT Deep Learning: Lectures and Tutorials for Introduction to and Overview of the Field]] /(added 2019-12-27)/
 - [[https://yugeten.github.io/posts/2019/09/GP/][Gaussian Processes, not quite for dummies - Yuge Shi]] /(added 2019-09-17)/
 - [[https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb][mit-deep-learning/tutorial_driving_scene_segmentation.ipynb at master · lexfridman/mit-deep-learning]] /(added 2019-01-08)/
@@ -61,8 +60,6 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
-** javascript
-- [[https://observablehq.com/@d3/learn-d3][Learn D3: Introduction / D3 / Observable]] /(added 2020-03-25)/
 - [[https://repl.it/][Repl.it - Online IDE, Editor, and Compiler - Fast, Powerful, Free]] /(added 2020-03-22)/
 - [[https://github.com/artagnon/clayoven][artagnon/clayoven: 💎 beautiful website generator for math, code, and articles]] /(added 2019-12-15)/
 - [[https://ackee.electerious.com/][Self-hosted website analytics | Ackee]] /(added 2019-09-03)/
@@ -111,6 +108,7 @@
 - [[https://mathics.github.io/][Mathics, a free, light-weight alternative to Mathematica]] /(added 2016-04-09)/
 - [[http://www.symmetrymagazine.org/article/the-next-big-lhc-upgrade-software?utm_source=main_feed_click&utm_medium=rss&utm_campaign=main_feed&utm_content=click][The next big LHC upgrade? Software.]] /(added 2016-03-29)/
 ** git
+- [[https://gitlab.com/jD91mZM2/git-subcopy][jD91mZM2 / git-subcopy · GitLab]] /(added 2019-10-27)/
 - [[https://stackoverflow.com/questions/43295151/creating-a-branch-from-issue-in-gitlab][branching and merging - Creating a branch from issue in GitLab - Stack Overflow]] /(added 2018-09-23)/
 - [[https://lgtm.co/][LGTM : Simple Approvals for Pull Requests]] /(added 2016-07-19)/
 ** golang
@@ -118,6 +116,10 @@
 - [[https://github.com/jfrazelle/dotfiles/blob/master/bin/install.sh][dotfiles/install.sh at master · jfrazelle/dotfiles]] /(added 2016-08-24)/
 - [[https://gobyexample.com/][Go by Example]] /(added 2016-03-04)/
 - [[https://msys2.github.io/][Archlinux under windows]] /(added 2016-03-03)/
+
+** javascript
+- [[https://observablehq.com/@d3/learn-d3][Learn D3: Introduction / D3 / Observable]] /(added 2020-03-25)/
+
 ** SN@ilWare
 - [[http://apple.stackexchange.com/questions/164525/what-directory-does-homebrew-use-to-build-programs][What directory does homebrew use to build programs?]] /(added 2016-02-16)/
 ** C++
