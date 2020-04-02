@@ -81,6 +81,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://200ok.ch/posts/2019-11-01_irc_and_emacs_all_the_things.html][IRC and Emacs all the things (messengers like Slack, Skype, etc) - 200ok]] /(added 2020-04-02)/
 - [[https://diskprices.com/][Disk Prices on Amazon]] /(added 2020-01-28)/
 - [[https://github.com/JLErvin/berry][JLErvin/berry: A healthy, byte-sized window manager written over the XLib Library]] /(added 2020-03-10)/
 - [[https://direnv.net/][direnv – unclutter your .profile | direnv]] /(added 2020-03-07)/
@@ -116,10 +117,8 @@
 - [[https://github.com/jfrazelle/dotfiles/blob/master/bin/install.sh][dotfiles/install.sh at master · jfrazelle/dotfiles]] /(added 2016-08-24)/
 - [[https://gobyexample.com/][Go by Example]] /(added 2016-03-04)/
 - [[https://msys2.github.io/][Archlinux under windows]] /(added 2016-03-03)/
-
 ** javascript
 - [[https://observablehq.com/@d3/learn-d3][Learn D3: Introduction / D3 / Observable]] /(added 2020-03-25)/
-
 ** SN@ilWare
 - [[http://apple.stackexchange.com/questions/164525/what-directory-does-homebrew-use-to-build-programs][What directory does homebrew use to build programs?]] /(added 2016-02-16)/
 ** C++
