@@ -81,6 +81,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://github.com/rclone/rclone][rclone/rclone: "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files]] /(added 2020-04-06)/
 - [[https://200ok.ch/posts/2019-11-01_irc_and_emacs_all_the_things.html][IRC and Emacs all the things (messengers like Slack, Skype, etc) - 200ok]] /(added 2020-04-02)/
 - [[https://diskprices.com/][Disk Prices on Amazon]] /(added 2020-01-28)/
 - [[https://github.com/JLErvin/berry][JLErvin/berry: A healthy, byte-sized window manager written over the XLib Library]] /(added 2020-03-10)/
