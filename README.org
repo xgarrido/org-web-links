@@ -60,6 +60,8 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+** jupyter
+- [[https://github.com/dnanhkhoa/nb_black][dnanhkhoa/nb_black: A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black.]] /(added 2020-04-19)/
 - [[https://repl.it/][Repl.it - Online IDE, Editor, and Compiler - Fast, Powerful, Free]] /(added 2020-03-22)/
 - [[https://github.com/artagnon/clayoven][artagnon/clayoven: 💎 beautiful website generator for math, code, and articles]] /(added 2019-12-15)/
 - [[https://ackee.electerious.com/][Self-hosted website analytics | Ackee]] /(added 2019-09-03)/
