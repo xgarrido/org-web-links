@@ -60,6 +60,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://blog.danslimmon.com/2019/08/02/stop-apologizing-for-bugs/][Stop apologizing for bugs – Dan Slimmon]] /(added 2020-04-25)/
 ** jupyter
 - [[https://github.com/deshaw/jupyterlab-execute-time][deshaw/jupyterlab-execute-time: Execute Time Plugin for Jupyter Lab]] /(added 2020-04-19)/
 - [[https://github.com/kafonek/ipython_blocking][kafonek/ipython_blocking: A Python library that offers a context manager to turn on cell execution capture/blocking in Jupyter notebooks/IPykernel. Useful when you need a "blocking widget"]] /(added 2020-04-19)/
