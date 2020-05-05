@@ -64,6 +64,7 @@
 ** jupyter
 - [[https://github.com/deshaw/jupyterlab-execute-time][deshaw/jupyterlab-execute-time: Execute Time Plugin for Jupyter Lab]] /(added 2020-04-19)/
 - [[https://github.com/kafonek/ipython_blocking][kafonek/ipython_blocking: A Python library that offers a context manager to turn on cell execution capture/blocking in Jupyter notebooks/IPykernel. Useful when you need a "blocking widget"]] /(added 2020-04-19)/
+- [[toomanyrequests: too many failed login attempts for username or IP address][willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.]] /(added 2020-05-05)/
 - [[https://github.com/leeoniya/uPlot][leeoniya/uPlot: 📈 A small, fast chart for time series, lines, areas, ohlc & bars]] /(added 2020-05-03)/
 - [[https://github.com/dnanhkhoa/nb_black][dnanhkhoa/nb_black: A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black.]] /(added 2020-04-19)/
 - [[https://repl.it/][Repl.it - Online IDE, Editor, and Compiler - Fast, Powerful, Free]] /(added 2020-03-22)/
