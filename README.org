@@ -78,6 +78,7 @@
 - [[https://github.com/leon-ai/leon][leon-ai/leon: 🧠 Leon is your open-source personal assistant.]] /(added 2019-02-16)/
 - [[https://gaia-pipeline.io/][Gaia - Build powerful pipelines in any programming language.]] /(added 2019-01-04)/
 - [[From Bootstrap to CSS Grid – Times Open ][From Bootstrap to CSS Grid – Times Open]] /(added 2017-12-29)/
+- [[https://latex.now.sh/][LaTeX.css — Make your website look like a LaTeX document]] /(added 2020-05-23)/
 ** docker
 - [[https://faizanbashir.me/docker-data-containers-cb250048d162][Docker Data Containers]] /(added 2020-01-28)/
 - [[https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/][Intro Guide to Dockerfile Best Practices - Docker Blog]] /(added 2019-07-08)/
