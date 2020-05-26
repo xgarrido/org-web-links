@@ -306,6 +306,7 @@
 - [[http://orgmode.org/manual/noweb_002dref.html#noweb_002dref][noweb-ref - The Org Manual ]] /(added 2015-12-23)/
 - [[http://irreal.org/blog/?p=4735][Asynchronous Python in Org Mode]] /(added 2015-12-02)/
 ** zsh
+- [[https://thorsten-hans.com/5-types-of-zsh-aliases][5 Types Of ZSH Aliases You Should Know]] /(added 2020-05-26)/
 - [[https://david-kerwick.github.io/2017-01-04-combining-zsh-history-files/][Combining zsh history files | Random Stuff About Stuff]] /(added 2020-01-04)/
 - [[https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/][Really fast Markov chains in ~20 lines of sh, grep, cut and awk :: 0x0f0f0f]] /(added 2019-11-10)/
 - [[https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial][iridakos - Creating a bash completion script]] /(added 2018-09-24)/
