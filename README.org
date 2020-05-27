@@ -8,6 +8,7 @@
 - [[https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html][Structure and Interpretation of Classical Mechanics: Table of Contents]] /(added 2019-04-27)/
 ** CMB
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
+- [[/sps/planck/Users/tlouis/development/test_adrien/][Code in the browser with GitHub Classroom - The GitHub Blog]] /(added 2020-05-27)/
 ** Machine Learning & co
 - [[https://deeplearning.mit.edu/?fbclid][MIT Deep Learning: Lectures and Tutorials for Introduction to and Overview of the Field]] /(added 2019-12-27)/
 - [[https://yugeten.github.io/posts/2019/09/GP/][Gaussian Processes, not quite for dummies - Yuge Shi]] /(added 2019-09-17)/
