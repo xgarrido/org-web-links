@@ -65,6 +65,7 @@
 ** jupyter
 - [[https://github.com/deshaw/jupyterlab-execute-time][deshaw/jupyterlab-execute-time: Execute Time Plugin for Jupyter Lab]] /(added 2020-04-19)/
 - [[https://github.com/kafonek/ipython_blocking][kafonek/ipython_blocking: A Python library that offers a context manager to turn on cell execution capture/blocking in Jupyter notebooks/IPykernel. Useful when you need a "blocking widget"]] /(added 2020-04-19)/
+- [[https://cjolowicz.github.io/posts/hypermodern-python-01-setup/][Hypermodern Python · Claudio Jolowicz]] /(added 2020-05-28)/
 - [[https://stackoverflow.com/questions/53327572/how-do-i-highlight-an-entire-trace-upon-hover-in-plotly-for-python][How do I highlight an entire trace upon hover in Plotly for Python? - Stack Overflow]] /(added 2020-05-18)/
 - [[https://github.com/NERSC/ipypathchooser][NERSC/ipypathchooser: An ipywidget for choosing a path (file or directory) interactively]] /(added 2020-05-11)/
 - [[toomanyrequests: too many failed login attempts for username or IP address][willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.]] /(added 2020-05-05)/
