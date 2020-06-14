@@ -65,6 +65,7 @@
 ** jupyter
 - [[https://github.com/deshaw/jupyterlab-execute-time][deshaw/jupyterlab-execute-time: Execute Time Plugin for Jupyter Lab]] /(added 2020-04-19)/
 - [[https://github.com/kafonek/ipython_blocking][kafonek/ipython_blocking: A Python library that offers a context manager to turn on cell execution capture/blocking in Jupyter notebooks/IPykernel. Useful when you need a "blocking widget"]] /(added 2020-04-19)/
+- [[https://github.com/say4n/hotreload][say4n/hotreload: hot reload your python code!]] /(added 2020-06-14)/
 - [[https://github.com/psalias2006/Google2Csv][psalias2006/Google2Csv: Google2Csv is a simple google scraper that saves the results on a csv file]] /(added 2020-06-05)/
 - [[https://martinheinz.dev/blog/24][Martin Heinz - Personal Website & Blog]] /(added 2020-06-02)/
 - [[https://dash-gallery.plotly.host/Portal/][Dash App Gallery]] /(added 2020-05-31)/
