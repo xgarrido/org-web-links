@@ -282,6 +282,7 @@
 - [[http://pragmaticemacs.com/emacs/naming-and-saving-macros-for-repetitive-tasks/][Naming and saving macros for repetitive tasks]] /(added 2015-12-06)/
 - [[http://blog.binchen.org/posts/emacs-auto-completion-for-non-programmers.html][Emacs auto-completion for non-programmers | Chen's blog ]] /(added 2015-12-01)/
 *** mu4e
+- [[https://jherrlin.github.io/posts/emacs-mu4e/][Mail in Emacs with mu4e and mbsync | jherrlin]] /(added 2020-07-23)/
 - [[https://github.com/bandresen/mu4e-send-delay/][bandresen/mu4e-send-delay: Schedule mails inside mu4e to allow for "undo send"]] /(added 2016-10-17)/
 - [[http://pragmaticemacs.com/emacs/migrating-from-offlineimap-to-mbsync-for-mu4e/][Migrating from offlineimap to mbsync for mu4e]] /(added 2016-05-03)/
 - [[https://github.com/mbork/message][mbork/message: mbork's helper functions for Emacs' message-mode ]] /(added 2016-02-06)/
