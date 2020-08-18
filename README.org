@@ -146,6 +146,7 @@
 ** SN@ilWare
 - [[http://apple.stackexchange.com/questions/164525/what-directory-does-homebrew-use-to-build-programs][What directory does homebrew use to build programs?]] /(added 2016-02-16)/
 ** C++
+- [[https://github.com/p-ranav/structopt][p-ranav/structopt: structopt for C++ - Parse command line arguments by defining a struct]] /(added 2020-08-18)/
 - [[https://xmake.io/#/][xmake]] /(added 2019-10-25)/
 - [[http://pages.tacc.utexas.edu/~eijkhout/pcse/html/omp-data.html][pages.tacc.utexas.edu/~eijkhout/pcse/html/omp-data.html]] /(added 2019-10-23)/
 - [[http://jakascorner.com/blog/2016/05/omp-for.html][OpenMP: For]] /(added 2019-10-23)/
