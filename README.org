@@ -66,6 +66,7 @@
 - [[https://deepnote.com/][Deepnote - Data science notebook for teams]] /(added 2020-06-15)/
 - [[https://github.com/deshaw/jupyterlab-execute-time][deshaw/jupyterlab-execute-time: Execute Time Plugin for Jupyter Lab]] /(added 2020-04-19)/
 - [[https://github.com/kafonek/ipython_blocking][kafonek/ipython_blocking: A Python library that offers a context manager to turn on cell execution capture/blocking in Jupyter notebooks/IPykernel. Useful when you need a "blocking widget"]] /(added 2020-04-19)/
+- [[https://github.com/JetBrains/lets-plot][JetBrains/lets-plot: An open-source plotting library for statistical data.]] /(added 2020-09-09)/
 - [[https://datalore.jetbrains.com/][Datalore : Explore, compute, visualize, and share]] /(added 2020-09-09)/
 - [[https://github.com/luvsound/pippi][luvsound/pippi: computer music with python]] /(added 2020-08-27)/
 - [[https://github.com/dfm/kepler.py][dfm/kepler.py: Fast and stable solver for Kepler's equation in Python]] /(added 2020-06-24)/
