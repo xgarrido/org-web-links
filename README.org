@@ -7,6 +7,7 @@
 ** Lectures
 - [[https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html][Structure and Interpretation of Classical Mechanics: Table of Contents]] /(added 2019-04-27)/
 ** CMB
+- [[https://healpixmap.readthedocs.io/en/latest/tutorials/Intro.html#HealpixMap-as-a-healpy-wrapper][Quick start — HealpixMap v0.1.5 documentation]] /(added 2020-09-30)/
 - [[https://cosmicfish.github.io/][CosmicFish]] /(added 2020-09-25)/
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
 - [[/sps/planck/Users/tlouis/development/test_adrien/][Code in the browser with GitHub Classroom - The GitHub Blog]] /(added 2020-05-27)/
