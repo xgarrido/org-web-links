@@ -98,6 +98,7 @@
 - [[From Bootstrap to CSS Grid – Times Open ][From Bootstrap to CSS Grid – Times Open]] /(added 2017-12-29)/
 - [[https://html5up.net/][HTML5 UP! Responsive HTML5 and CSS3 Site Templates]] /(added 2020-07-11)/
 - [[https://latex.now.sh/][LaTeX.css — Make your website look like a LaTeX document]] /(added 2020-05-23)/
+- [[https://github.com/HarveySheppard/yLaTeX][HarveySheppard/yLaTeX: My LaTeX projects (classes, packages and more)!]] /(added 2020-10-28)/
 - [[https://github.com/tecosaur/BMC][tecosaur/BMC: My bespoke, multipurpose class; designed for general use in LaTeX documents.]] /(added 2020-10-27)/
 - [[http://mrzool.cc/tex-boilerplates/][LaTeX Boilerplates · Plain-text Document Production System]] /(added 2020-06-20)/
 ** docker
