@@ -12,6 +12,7 @@
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
 - [[/sps/planck/Users/tlouis/development/test_adrien/][Code in the browser with GitHub Classroom - The GitHub Blog]] /(added 2020-05-27)/
 ** Machine Learning & co
+- [[https://www.tweag.io/blog/2019-10-25-mcmc-intro1/][Tweag - Markov chain Monte Carlo (MCMC) Sampling, Part 1: The Basics]] /(added 2020-10-29)/
 - [[https://www.simonwardjones.co.uk/posts/gradient_boosted_decision_trees/][Simon Ward-Jones | Gradient Boosted Decision Trees]] /(added 2020-10-06)/
 - [[https://deeplearning.mit.edu/?fbclid][MIT Deep Learning: Lectures and Tutorials for Introduction to and Overview of the Field]] /(added 2019-12-27)/
 - [[https://yugeten.github.io/posts/2019/09/GP/][Gaussian Processes, not quite for dummies - Yuge Shi]] /(added 2019-09-17)/
