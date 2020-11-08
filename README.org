@@ -67,6 +67,7 @@
 * Coding
 - [[https://blog.danslimmon.com/2019/08/02/stop-apologizing-for-bugs/][Stop apologizing for bugs – Dan Slimmon]] /(added 2020-04-25)/
 ** jupyter
+- [[https://www.markroepke.me/posts/2019/06/05/tips-for-slideshows-in-jupyter.html][Tips for Creating Slideshows in Jupyter | Mark Roepke]] /(added 2020-11-08)/
 - [[https://github.com/jupyter/nbgrader][jupyter/nbgrader: A system for assigning and grading notebooks]] /(added 2020-10-27)/
 - [[https://github.com/ahrenberg/nbcorg][ahrenberg/nbcorg: A jupyter notebook to orgmode exporter for nbconvert]] /(added 2020-10-27)/
 - [[https://deepnote.com/][Deepnote - Data science notebook for teams]] /(added 2020-06-15)/
