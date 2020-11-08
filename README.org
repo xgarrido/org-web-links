@@ -65,6 +65,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://github.com/datopian/data-cli][datopian/data-cli: data - command line tool for working with data, Data Packages and the DataHub]] /(added 2020-11-08)/
 - [[https://blog.danslimmon.com/2019/08/02/stop-apologizing-for-bugs/][Stop apologizing for bugs – Dan Slimmon]] /(added 2020-04-25)/
 ** jupyter
 - [[https://www.markroepke.me/posts/2019/06/05/tips-for-slideshows-in-jupyter.html][Tips for Creating Slideshows in Jupyter | Mark Roepke]] /(added 2020-11-08)/
