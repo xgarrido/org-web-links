@@ -104,6 +104,7 @@
 - [[https://github.com/leon-ai/leon][leon-ai/leon: 🧠 Leon is your open-source personal assistant.]] /(added 2019-02-16)/
 - [[https://gaia-pipeline.io/][Gaia - Build powerful pipelines in any programming language.]] /(added 2019-01-04)/
 - [[From Bootstrap to CSS Grid – Times Open ][From Bootstrap to CSS Grid – Times Open]] /(added 2017-12-29)/
+- [[https://github.com/edwardtufte/tufte-css][edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.]] /(added 2020-12-22)/
 - [[https://john-doe.neocities.org/][John Doe’s page]] /(added 2020-11-22)/
 - [[https://html5up.net/][HTML5 UP! Responsive HTML5 and CSS3 Site Templates]] /(added 2020-07-11)/
 - [[https://latex.now.sh/][LaTeX.css — Make your website look like a LaTeX document]] /(added 2020-05-23)/
