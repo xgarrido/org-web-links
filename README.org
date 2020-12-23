@@ -68,6 +68,7 @@
 - [[https://github.com/datopian/data-cli][datopian/data-cli: data - command line tool for working with data, Data Packages and the DataHub]] /(added 2020-11-08)/
 - [[https://blog.danslimmon.com/2019/08/02/stop-apologizing-for-bugs/][Stop apologizing for bugs – Dan Slimmon]] /(added 2020-04-25)/
 ** jupyter
+- [[https://jupyterhub.github.io/nbgitpuller/][nbgitpuller — nbgitpuller 0.1b documentation]] /(added 2020-12-23)/
 - [[https://starboard.gg/][Starboard , The shareable in-browser notebook]] /(added 2020-11-21)/
 - [[https://github.com/danlester/binderhub-voila-native/blob/master/Presentation.ipynb][binderhub-voila-native/Presentation.ipynb at master · danlester/binderhub-voila-native]] /(added 2020-11-20)/
 - [[https://github.com/jupyter/notebook/issues/2897][Cell output on the side · Issue #2897 · jupyter/notebook]] /(added 2020-11-08)/
