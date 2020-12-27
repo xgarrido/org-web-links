@@ -71,6 +71,7 @@
 ** jupyter
 - [[https://github.com/jpmorganchase/ipyregulartable][jpmorganchase/ipyregulartable: An ipywidget wrapper of regular-table for high performance, editable, stylable, lazy data model grids in jupyter and jupyterlab]] /(added 2020-12-25)/
 - [[https://github.com/mwouts/jupytext][mwouts/jupytext: Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts]] /(added 2020-12-24)/
+- [[https://fastapi.tiangolo.com/][FastAPI]] /(added 2020-12-27)/
 - [[https://drscotthawley.github.io/blog/2019/12/21/PCA-From-Scratch.html][Principal Component Analysis (PCA) from Scratch | Scott H. Hawley]] /(added 2020-12-23)/
 - [[https://jupyterhub.github.io/nbgitpuller/][nbgitpuller — nbgitpuller 0.1b documentation]] /(added 2020-12-23)/
 - [[https://starboard.gg/][Starboard , The shareable in-browser notebook]] /(added 2020-11-21)/
