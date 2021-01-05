@@ -287,6 +287,7 @@
 ** emacs
 - [[http://www.emacs-bootstrap.com/][Emacs Bootstrap]] /(added 2020-03-05)/
 - [[https://www.reddit.com/r/emacs/comments/fah80q/docorg_orgmode_latex_docker_pdf/][Doc-org: org-mode + latex + docker = pdf : emacs]] /(added 2020-02-27)/
+- [[https://github.com/shg/org-inline-pdf.el][shg/org-inline-pdf.el: Inline PDF previewing for Org]] /(added 2021-01-05)/
 - [[https://github.com/DarkBuffalo/ox-report][DarkBuffalo/ox-report: Export your org file to minutes report PDF file]] /(added 2020-09-30)/
 - [[https://emacsnotes.wordpress.com/2020/06/21/create-a-stylesheet-for-your-opendocument-files-and-inline-the-xml-definitions-right-in-your-org-file-think-html_head-or-html_head_extra-but-for-odt-docx-files/][Create a stylesheet for your OpenDocument files, and inline the XML definitions right in your Org file–Think HTML_HEAD, or HTML_HEAD_EXTRA but for ODT / DOCX files – Emacs Notes]] /(added 2020-06-21)/
 - [[https://github.com/ahyatt/emacs-calc-tutorials][ahyatt/emacs-calc-tutorials: A series of tutorials about emacs-calc]] /(added 2019-02-07)/
