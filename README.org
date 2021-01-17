@@ -72,6 +72,7 @@
 - [[https://soliloquium.zealmaker.com/jupyter/plotly/visualization/2020/04/24/plotlyrendering][How to enable plotly chart rendering on FastPages | Soliloquium]] /(added 2021-01-12)/
 - [[https://github.com/jpmorganchase/ipyregulartable][jpmorganchase/ipyregulartable: An ipywidget wrapper of regular-table for high performance, editable, stylable, lazy data model grids in jupyter and jupyterlab]] /(added 2020-12-25)/
 - [[https://github.com/mwouts/jupytext][mwouts/jupytext: Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts]] /(added 2020-12-24)/
+- [[https://plotly.com/python/pandas-backend/][Pandas Plotting Backend | Python | Plotly]] /(added 2021-01-17)/
 - [[][ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code: 500 AI Machine learning Deep learning Computer vision NLP Projects with code]] /(added 2021-01-07)/
 - [[https://github.com/onelivesleft/PrettyErrors][onelivesleft/PrettyErrors: Prettify Python exception output to make it legible.]] /(added 2020-12-30)/
 - [[https://github.com/willmcgugan/rich][willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.]] /(added 2020-12-30)/
