@@ -32,7 +32,7 @@ function notify ()
 
 function get_url_description ()
 {
-    local winfo=$(wmctrl -l | grep Chromium | head -1)
+    local winfo=$(wmctrl -l | grep "Google Chrome" | head -1)
     # Get internet url
     local wid=$(echo $winfo | awk '{print $1}')
     local deskid=$(echo $winfo | awk '{print $2}')
@@ -58,7 +58,7 @@ function get_url_description ()
 
     # Get window description
     description=$(echo $winfo | awk '{for (i=1;i<=3;i++) $i=""; print}' | \
-                         sed -e 's/– Chromium//g' -e 's/^[ \t]*//')
+                         sed -e 's/- Google Chrome//g' -e 's/^[ \t]*//')
     description=$(zenity --title "org-web-links" --entry --text "Set description" \
                          --entry-text "${description}")
     if [ -z "$description" ]; then
