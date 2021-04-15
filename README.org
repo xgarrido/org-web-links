@@ -8,6 +8,7 @@
 - [[https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html][Structure and Interpretation of Classical Mechanics: Table of Contents]] /(added 2019-04-27)/
 ** CMB
 - [[https://nbviewer.jupyter.org/github/xzackli/fishchips-public/blob/master/notebooks/Introduction%20to%20Fisher%20Forecasting.ipynb][Fisher Forecasting]] /(added 2021-04-15)/
+- [[https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18][Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science]] /(added 2021-04-15)/
 - [[https://healpixmap.readthedocs.io/en/latest/tutorials/Intro.html#HealpixMap-as-a-healpy-wrapper][Quick start — HealpixMap v0.1.5 documentation]] /(added 2020-09-30)/
 - [[https://cosmicfish.github.io/][CosmicFish]] /(added 2020-09-25)/
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
