@@ -68,6 +68,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://github.com/osmoscraft/osmosfeed][osmoscraft/osmosfeed: A web-based RSS reader running entirely from your GitHub repo.]] /(added 2021-05-02)/
 - [[https://academicpages.github.io/][academicpages is a ready-to-fork GitHub Pages template for academic personal websites - Your Name / Site Title]] /(added 2021-02-14)/
 - [[https://dtinth.github.io/comic-mono-font/][Comic Mono | comic-mono-font]] /(added 2020-12-23)/
 - [[https://github.com/datopian/data-cli][datopian/data-cli: data - command line tool for working with data, Data Packages and the DataHub]] /(added 2020-11-08)/
