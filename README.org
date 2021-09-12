@@ -411,6 +411,7 @@
 - [[https://www.home-assistant.io/?hn=true][Home Assistant]] /(added 2019-11-29)/
 - [[https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2][Fold N Fly ✈]] /(added 2018-10-19)/
 * VTT, gravel, trail...
+- [[https://www.cosrl-vtt.fr/les-boucles-de-la-juine/][Les boucles de la Juine – VTT Renault Lardy]] /(added 2021-09-12)/
 - [[https://ferrobikers.com/etapas/][ETAPAS – cala d'or ferrobikers]] /(added 2021-09-01)/
 - [[https://www.gravellocos.bike/#routes][Gravel Locos]] /(added 2021-09-01)/
 - [[https://bikepacker.fr/montanas-vacias/][Montañas Vacías – Bikepacking Spanish Lapland]] /(added 2021-08-30)/
