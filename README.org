@@ -9,6 +9,7 @@
 ** CMB
 - [[https://github.com/cmbant/notebooks/blob/master/Growth-Of-Structure-21_CMB.ipynb][notebooks/Growth-Of-Structure-21_CMB.ipynb at master · cmbant/notebooks]] /(added 2021-08-17)/
 - [[https://nbviewer.jupyter.org/github/xzackli/fishchips-public/blob/master/notebooks/Introduction%20to%20Fisher%20Forecasting.ipynb][Fisher Forecasting]] /(added 2021-04-15)/
+- [[https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/pages/introduction.html][Introduction — pandas-profiling 3.1.1 documentation]] /(added 2021-10-29)/
 - [[https://github.com/walkerpayne/Glucose-Analysis][walkerpayne/Glucose-Analysis: Jupyter notebook that generates useful graphs and statistical metrics for analyzing and improving glycemic control.]] /(added 2021-09-01)/
 - [[https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18][Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science]] /(added 2021-04-15)/
 - [[https://github.com/marceloprates/prettymaps][marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.]] /(added 2021-09-01)/
