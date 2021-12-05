@@ -153,6 +153,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://github.com/intoli/exodus][intoli/exodus: Painless relocation of Linux binaries–and all of their dependencies–without containers.]] /(added 2021-12-05)/
 - [[chown -R root /var/lib/ntp][openntpd fatal: bad privsep dir /var/lib/ntp permissions: (on arch linux) | artodeto's blog about coding, politics and the world]] /(added 2021-11-24)/
 - [[https://github.com/CastagnaIT/plugin.video.netflix/wiki/How-install-the-addon][How install the addon · CastagnaIT/plugin.video.netflix Wiki]] /(added 2021-01-04)/
 - [[https://github.com/RaymiiOrg/bash-http-monitoring][RaymiiOrg/bash-http-monitoring: HTTP(s) monitoring webpage via shell script]] /(added 2020-12-27)/
