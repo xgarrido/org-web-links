@@ -14,6 +14,7 @@
 - [[https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/pages/introduction.html][Introduction — pandas-profiling 3.1.1 documentation]] /(added 2021-10-29)/
 - [[https://github.com/walkerpayne/Glucose-Analysis][walkerpayne/Glucose-Analysis: Jupyter notebook that generates useful graphs and statistical metrics for analyzing and improving glycemic control.]] /(added 2021-09-01)/
 - [[https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18][Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science]] /(added 2021-04-15)/
+- [[https://github.com/tengbao/vanta][tengbao/vanta: Animated 3D backgrounds for your website]] /(added 2022-01-03)/
 - [[https://github.com/marceloprates/prettymaps][marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.]] /(added 2021-09-01)/
 - [[https://github.com/chriskiehl/Gooey][chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line]] /(added 2021-06-14)/
 - [[https://towardsdatascience.com/data-apps-with-pythons-streamlit-b14aaca7d083][Data Apps with Python’s Streamlit | by Thiago Carvalho | Apr, 2021 | Towards Data Science]] /(added 2021-04-30)/
