@@ -81,6 +81,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://birdnetpi.com/][BirdNET-Pi – BirdNET in Raspberry Pis]] /(added 2022-04-19)/
 - [[https://github.com/dginev/ar5iv][dginev/ar5iv: A web service offering HTML5 articles from arXiv.org as converted with latexml]] /(added 2022-02-01)/
 - [[https://blog.fleetdm.com/4-tips-for-github-actions-usability-2-debugging-4c0c920adfde][4 tips for GitHub Actions usability (+2 debugging) | Fleet Device Management]] /(added 2022-01-04)/
 - [[https://github.com/thisiscam/math-with-slack][thisiscam/math-with-slack: Rendered math (MathJax) with Slack's desktop client]] /(added 2021-11-03)/
