@@ -11,6 +11,7 @@
 - [[https://github.com/cmbant/notebooks/blob/master/Growth-Of-Structure-21_CMB.ipynb][notebooks/Growth-Of-Structure-21_CMB.ipynb at master · cmbant/notebooks]] /(added 2021-08-17)/
 - [[https://nbviewer.jupyter.org/github/xzackli/fishchips-public/blob/master/notebooks/Introduction%20to%20Fisher%20Forecasting.ipynb][Fisher Forecasting]] /(added 2021-04-15)/
 - [[https://github.com/pathbird/poetry-kernel][pathbird/poetry-kernel: Python Jupyter kernel using Poetry for reproducible notebooks]] /(added 2021-12-24)/
+- [[https://bytepawn.com/python-decorators-for-data-scientists.html][Bytepawn - Marton Trencseni – Useful Python decorators for Data Scientists]] /(added 2022-05-23)/
 - [[https://geodienst.github.io/lighthousemap/][Lights at sea]] /(added 2022-01-26)/
 - [[https://www.overpass-api.de/][Overpass API]] /(added 2022-01-26)/
 - [[https://scipython.com/book2/chapter-8-scipy/additional-examples/the-sir-epidemic-model/][The SIR epidemic model]] /(added 2022-01-04)/
