@@ -10,6 +10,7 @@
 ** CMB
 - [[https://github.com/cmbant/notebooks/blob/master/Growth-Of-Structure-21_CMB.ipynb][notebooks/Growth-Of-Structure-21_CMB.ipynb at master · cmbant/notebooks]] /(added 2021-08-17)/
 - [[https://nbviewer.jupyter.org/github/xzackli/fishchips-public/blob/master/notebooks/Introduction%20to%20Fisher%20Forecasting.ipynb][Fisher Forecasting]] /(added 2021-04-15)/
+- [[https://github.com/mljar/mercury][mljar/mercury: Convert Python notebook to web app and share with others]] /(added 2022-06-14)/
 - [[https://github.com/pathbird/poetry-kernel][pathbird/poetry-kernel: Python Jupyter kernel using Poetry for reproducible notebooks]] /(added 2021-12-24)/
 - [[https://github.com/satwikkansal/wtfpython][satwikkansal/wtfpython: What the f*ck Python? 😱]] /(added 2022-05-31)/
 - [[https://bytepawn.com/python-decorators-for-data-scientists.html][Bytepawn - Marton Trencseni – Useful Python decorators for Data Scientists]] /(added 2022-05-23)/
