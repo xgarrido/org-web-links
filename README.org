@@ -4,6 +4,7 @@
 #+OPTIONS: toc:nil num:nil
 
 * Science
+- [[https://www.ige-grenoble.fr/Disparition-de-Jeremie-Mouginot][Disparition de Jérémie Mouginot | IGE Géosciences Environnement]] /(added 2022-10-06)/
 - [[https://www.tug.org/texshowcase/cheat.pdf][Theoritical computer science]] /(added 2021-11-26)/
 ** Lectures
 - [[https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html][Structure and Interpretation of Classical Mechanics: Table of Contents]] /(added 2019-04-27)/
