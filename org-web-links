@@ -151,7 +151,7 @@ function update_readme ()
     local orglink="- [[$url][$description]] /(added $(date +%Y-%m-%d))/"
     notify debug "orglink=$orglink"
     notify debug "category=${category// /.}"
-    sed -i -e '/.*'${category// /.}'/a '"$orglink" $store_file
+    sed -i -e '/^\*.*'${category// /.}'/a '"$orglink" $store_file
     awk '!seen[$0]++' $store_file > ${store_file}.tmp
     mv ${store_file}.tmp $store_file
     return 0

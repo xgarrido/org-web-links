@@ -11,27 +11,6 @@
 ** CMB
 - [[https://github.com/cmbant/notebooks/blob/master/Growth-Of-Structure-21_CMB.ipynb][notebooks/Growth-Of-Structure-21_CMB.ipynb at master · cmbant/notebooks]] /(added 2021-08-17)/
 - [[https://nbviewer.jupyter.org/github/xzackli/fishchips-public/blob/master/notebooks/Introduction%20to%20Fisher%20Forecasting.ipynb][Fisher Forecasting]] /(added 2021-04-15)/
-- [[https://github.com/mljar/mercury][mljar/mercury: Convert Python notebook to web app and share with others]] /(added 2022-06-14)/
-- [[https://towardsdatascience.com/pdf-parsing-dashboard-with-plotly-dash-256bf944f536][PDF Parsing Dashboard with Plotly Dash | by Benjamin McCloskey | Dec, 2022 | Towards Data Science]] /(added 2022-12-07)/
-- [[https://github.com/konradhalas/dacite][konradhalas/dacite: Simple creation of data classes from dictionaries.]] /(added 2022-10-05)/
-- [[https://github.com/soxoj/maigret][soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites]] /(added 2022-10-03)/
-- [[https://github.com/Miksus/rocketry][Miksus/rocketry: Modern scheduling library for Python]] /(added 2022-09-22)/
-- [[https://show-your.work/en/latest/][Documentation — showyourwork]] /(added 2022-08-13)/
-- [[https://github.com/pathbird/poetry-kernel][pathbird/poetry-kernel: Python Jupyter kernel using Poetry for reproducible notebooks]] /(added 2021-12-24)/
-- [[https://github.com/satwikkansal/wtfpython][satwikkansal/wtfpython: What the f*ck Python? 😱]] /(added 2022-05-31)/
-- [[https://bytepawn.com/python-decorators-for-data-scientists.html][Bytepawn - Marton Trencseni – Useful Python decorators for Data Scientists]] /(added 2022-05-23)/
-- [[https://geodienst.github.io/lighthousemap/][Lights at sea]] /(added 2022-01-26)/
-- [[https://www.overpass-api.de/][Overpass API]] /(added 2022-01-26)/
-- [[https://scipython.com/book2/chapter-8-scipy/additional-examples/the-sir-epidemic-model/][The SIR epidemic model]] /(added 2022-01-04)/
-- [[https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/pages/introduction.html][Introduction — pandas-profiling 3.1.1 documentation]] /(added 2021-10-29)/
-- [[https://github.com/walkerpayne/Glucose-Analysis][walkerpayne/Glucose-Analysis: Jupyter notebook that generates useful graphs and statistical metrics for analyzing and improving glycemic control.]] /(added 2021-09-01)/
-- [[https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18][Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science]] /(added 2021-04-15)/
-- [[https://github.com/susam/texme#texme][susam/texme: Self-rendering Markdown + LaTeX documents]] /(added 2022-02-01)/
-- [[https://github.com/xu-cheng/latex-action][xu-cheng/latex-action: GitHub Action to compile LaTeX documents]] /(added 2022-11-08)/
-- [[https://github.com/tengbao/vanta][tengbao/vanta: Animated 3D backgrounds for your website]] /(added 2022-01-03)/
-- [[https://github.com/marceloprates/prettymaps][marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.]] /(added 2021-09-01)/
-- [[https://github.com/chriskiehl/Gooey][chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line]] /(added 2021-06-14)/
-- [[https://towardsdatascience.com/data-apps-with-pythons-streamlit-b14aaca7d083][Data Apps with Python’s Streamlit | by Thiago Carvalho | Apr, 2021 | Towards Data Science]] /(added 2021-04-30)/
 - [[https://healpixmap.readthedocs.io/en/latest/tutorials/Intro.html#HealpixMap-as-a-healpy-wrapper][Quick start — HealpixMap v0.1.5 documentation]] /(added 2020-09-30)/
 - [[https://cosmicfish.github.io/][CosmicFish]] /(added 2020-09-25)/
 - [[https://github.com/JulienPeloton/lenscov][JulienPeloton/lenscov: Full CMB and lensing covariances]] /(added 2019-03-07)/
@@ -254,6 +233,28 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/mljar/mercury][mljar/mercury: Convert Python notebook to web app and share with others]] /(added 2022-06-14)/
+- [[https://python.plainenglish.io/creating-an-awesome-web-app-with-python-and-streamlit-728fe100cf7][Creating an Awesome Web App With Python and Streamlit | by Dennis Niggl | Python in Plain English]] /(added 2022-12-07)/
+- [[https://towardsdatascience.com/pdf-parsing-dashboard-with-plotly-dash-256bf944f536][PDF Parsing Dashboard with Plotly Dash | by Benjamin McCloskey | Dec, 2022 | Towards Data Science]] /(added 2022-12-07)/
+- [[https://github.com/konradhalas/dacite][konradhalas/dacite: Simple creation of data classes from dictionaries.]] /(added 2022-10-05)/
+- [[https://github.com/soxoj/maigret][soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites]] /(added 2022-10-03)/
+- [[https://github.com/Miksus/rocketry][Miksus/rocketry: Modern scheduling library for Python]] /(added 2022-09-22)/
+- [[https://show-your.work/en/latest/][Documentation — showyourwork]] /(added 2022-08-13)/
+- [[https://github.com/pathbird/poetry-kernel][pathbird/poetry-kernel: Python Jupyter kernel using Poetry for reproducible notebooks]] /(added 2021-12-24)/
+- [[https://github.com/satwikkansal/wtfpython][satwikkansal/wtfpython: What the f*ck Python? 😱]] /(added 2022-05-31)/
+- [[https://bytepawn.com/python-decorators-for-data-scientists.html][Bytepawn - Marton Trencseni – Useful Python decorators for Data Scientists]] /(added 2022-05-23)/
+- [[https://geodienst.github.io/lighthousemap/][Lights at sea]] /(added 2022-01-26)/
+- [[https://www.overpass-api.de/][Overpass API]] /(added 2022-01-26)/
+- [[https://scipython.com/book2/chapter-8-scipy/additional-examples/the-sir-epidemic-model/][The SIR epidemic model]] /(added 2022-01-04)/
+- [[https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/pages/introduction.html][Introduction — pandas-profiling 3.1.1 documentation]] /(added 2021-10-29)/
+- [[https://github.com/walkerpayne/Glucose-Analysis][walkerpayne/Glucose-Analysis: Jupyter notebook that generates useful graphs and statistical metrics for analyzing and improving glycemic control.]] /(added 2021-09-01)/
+- [[https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18][Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science]] /(added 2021-04-15)/
+- [[https://github.com/susam/texme#texme][susam/texme: Self-rendering Markdown + LaTeX documents]] /(added 2022-02-01)/
+- [[https://github.com/xu-cheng/latex-action][xu-cheng/latex-action: GitHub Action to compile LaTeX documents]] /(added 2022-11-08)/
+- [[https://github.com/tengbao/vanta][tengbao/vanta: Animated 3D backgrounds for your website]] /(added 2022-01-03)/
+- [[https://github.com/marceloprates/prettymaps][marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.]] /(added 2021-09-01)/
+- [[https://github.com/chriskiehl/Gooey][chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line]] /(added 2021-06-14)/
+- [[https://towardsdatascience.com/data-apps-with-pythons-streamlit-b14aaca7d083][Data Apps with Python’s Streamlit | by Thiago Carvalho | Apr, 2021 | Towards Data Science]] /(added 2021-04-30)/
 - [[https://nbdev.fast.ai/][Welcome to nbdev | nbdev]] /(added 2020-04-14)/
 - [[https://github.com/donkirkby/live-py-plugin][donkirkby/live-py-plugin: Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser]] /(added 2020-02-04)/
 - [[https://martinheinz.dev/blog/13][Martin Heinz - Personal Website & Blog]] /(added 2020-01-14)/
