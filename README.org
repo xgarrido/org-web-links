@@ -233,6 +233,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://google-research.github.io/self-organising-systems/particle-lenia/][Particle Lenia and the energy-based formulation]] /(added 2022-12-24)/
 - [[https://github.com/mljar/mercury][mljar/mercury: Convert Python notebook to web app and share with others]] /(added 2022-06-14)/
 - [[https://python.plainenglish.io/creating-an-awesome-web-app-with-python-and-streamlit-728fe100cf7][Creating an Awesome Web App With Python and Streamlit | by Dennis Niggl | Python in Plain English]] /(added 2022-12-07)/
 - [[https://towardsdatascience.com/pdf-parsing-dashboard-with-plotly-dash-256bf944f536][PDF Parsing Dashboard with Plotly Dash | by Benjamin McCloskey | Dec, 2022 | Towards Data Science]] /(added 2022-12-07)/
