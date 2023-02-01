@@ -71,6 +71,7 @@
 - [[http://nautil.us/issue/24/error/the-admiral-of-the-string-theory-wars][The Admiral of the String Theory Wars: Peter Woit still thinks string theory is a gory mess. ]] /(added 2015-12-24)/
 - [[https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/][Physicists and Philosophers Debate the Boundaries of Science]] /(added 2015-12-23)/
 * Coding
+- [[https://socviz.co/index.html][Data Visualization]] /(added 2023-02-01)/
 - [[https://bert.org/2022/06/02/payphone/][Installing a payphone in my house | bertrand fan]] /(added 2022-06-03)/
 - [[https://dokku.com/][Dokku - The smallest PaaS implementation you've ever seen]] /(added 2022-05-14)/
 - [[https://birdnetpi.com/][BirdNET-Pi – BirdNET in Raspberry Pis]] /(added 2022-04-19)/
