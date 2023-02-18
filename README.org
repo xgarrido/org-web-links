@@ -9,6 +9,7 @@
 ** Lectures
 - [[https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html][Structure and Interpretation of Classical Mechanics: Table of Contents]] /(added 2019-04-27)/
 ** CMB
+- [[https://cmb.wintherscoming.no/][Cosmology II: A numerical project on the formation of the CMB and structures in the Universe]] /(added 2023-02-18)/
 - [[https://github.com/cmbant/notebooks/blob/master/Growth-Of-Structure-21_CMB.ipynb][notebooks/Growth-Of-Structure-21_CMB.ipynb at master · cmbant/notebooks]] /(added 2021-08-17)/
 - [[https://nbviewer.jupyter.org/github/xzackli/fishchips-public/blob/master/notebooks/Introduction%20to%20Fisher%20Forecasting.ipynb][Fisher Forecasting]] /(added 2021-04-15)/
 - [[https://healpixmap.readthedocs.io/en/latest/tutorials/Intro.html#HealpixMap-as-a-healpy-wrapper][Quick start — HealpixMap v0.1.5 documentation]] /(added 2020-09-30)/
