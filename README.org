@@ -86,6 +86,7 @@
 - [[https://github.com/datopian/data-cli][datopian/data-cli: data - command line tool for working with data, Data Packages and the DataHub]] /(added 2020-11-08)/
 - [[https://blog.danslimmon.com/2019/08/02/stop-apologizing-for-bugs/][Stop apologizing for bugs – Dan Slimmon]] /(added 2020-04-25)/
 ** jupyter
+- [[https://github.com/Kanaries/pygwalker][Kanaries/pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis]] /(added 2023-02-21)/
 - [[https://github.com/plotly/jupyter-dash][plotly/jupyter-dash: Develop Dash apps in the Jupyter Notebook and JupyterLab]] /(added 2021-02-05)/
 - [[2436][Magic Commands for Profiling in Jupyter Notebook | by Remi Perrier | Jan, 2021 | Towards Data Science]] /(added 2021-01-27)/
 - [[https://soliloquium.zealmaker.com/jupyter/plotly/visualization/2020/04/24/plotlyrendering][How to enable plotly chart rendering on FastPages | Soliloquium]] /(added 2021-01-12)/
