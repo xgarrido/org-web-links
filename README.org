@@ -237,6 +237,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://github.com/Asabeneh/30-Days-Of-Python][Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.]] /(added 2023-03-04)/
 - [[https://google-research.github.io/self-organising-systems/particle-lenia/][Particle Lenia and the energy-based formulation]] /(added 2022-12-24)/
 - [[https://github.com/mljar/mercury][mljar/mercury: Convert Python notebook to web app and share with others]] /(added 2022-06-14)/
 - [[https://python.plainenglish.io/creating-an-awesome-web-app-with-python-and-streamlit-728fe100cf7][Creating an Awesome Web App With Python and Streamlit | by Dennis Niggl | Python in Plain English]] /(added 2022-12-07)/
