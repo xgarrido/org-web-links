@@ -449,6 +449,7 @@
 - [[https://www.home-assistant.io/?hn=true][Home Assistant]] /(added 2019-11-29)/
 - [[https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2][Fold N Fly ✈]] /(added 2018-10-19)/
 * VTT, gravel, trail...
+- [[https://en.hexatrek.com/][Hexatrek : The long distance thru hike in France]] /(added 2023-04-01)/
 - [[http://www.paris-saclay.com/vivre-ici/sport-loisirs/le-tour-paris-saclay-2018-620.html][Le Tour Paris-Saclay 2021 - Paris Saclay]] /(added 2021-09-12)/
 - [[https://www.cosrl-vtt.fr/les-boucles-de-la-juine/][Les boucles de la Juine – VTT Renault Lardy]] /(added 2021-09-12)/
 - [[https://ferrobikers.com/etapas/][ETAPAS – cala d'or ferrobikers]] /(added 2021-09-01)/
