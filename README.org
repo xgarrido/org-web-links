@@ -162,6 +162,7 @@
 - [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] /(added 2017-11-06)/
 - [[http://minicss.org/][mini.css - Minimal, responsive, style-agnostic CSS framework]] /(added 2017-05-04)/
 ** Linux
+- [[https://blog.tomecek.net/post/automount-with-systemd/][Automatic mounts with systemd · Blog | Tomáš Tomeček]] /(added 2023-12-10)/
 - [[https://transfer.sh/][transfer.sh - Easy and fast file sharing from the command-line.]] /(added 2023-04-08)/
 - [[https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/][Using a Raspberry Pi as a Bluetooth speaker with PipeWire]] /(added 2022-09-02)/
 - [[https://github.com/intoli/exodus][intoli/exodus: Painless relocation of Linux binaries–and all of their dependencies–without containers.]] /(added 2021-12-05)/
