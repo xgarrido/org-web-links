@@ -244,6 +244,7 @@
 - [[https://www.npmjs.com/package/imapnotify][imapnotify : a IMAP mail notifier]] /(added 2016-03-13)/
 - [[https://archlinux.fr/yaourt-en][yaourt: a pacman frontend « Archlinux.fr ]] /(added 2016-02-02)/
 ** Python
+- [[https://learn.scientific-python.org/development/guides/repo-review/?repo=simonsobs%2Fpspy&branch=master][Repo-Review - Scientific Python Development Guide]] /(added 2024-01-02)/
 - [[https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers][A Linear Algebra Trick for Computing Fibonacci Numbers Fast]] /(added 2023-11-06)/
 - [[https://pythonhosted.org/calmap/][Calendar heatmaps from Pandas time series data — Calmap 0.0.6 documentation]] /(added 2023-10-29)/
 - [[https://www.fabiocrameri.ch/colourmaps/][Colour maps]] /(added 2023-06-15)/
