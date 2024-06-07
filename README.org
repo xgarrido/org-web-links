@@ -458,6 +458,7 @@
 - [[https://www.quantamagazine.org/20160324-in-newly-created-life-form-a-major-mystery/][In Newly Created Life-Form, A Major Mystery]] /(added 2016-07-03)/
 - [[https://www.quantamagazine.org/20160621-electron-eating-microbes-found-in-odd-places/][Electron-Eating Microbes Found In Odd Places]] /(added 2016-07-03)/
 * Misc.
+- [[https://www.lemonde.fr/international/article/2024/02/25/lucky-brioche-et-moi-une-incroyable-fable-ukrainienne-dans-la-guerre_6218453_3210.html][« Lucky, Brioche et moi », une incroyable fable ukrainienne dans la guerre]] /(added 2024-06-07)/
 - [[https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/][My Youtube earnings | Brick Experiment Channel]] /(added 2023-01-03)/
 - [[https://github.com/tobetz/LegoMicroscope][tobetz/LegoMicroscope: To learn about optics and microscopy, we generated a simple to build lego microscope that does not need precision optics and 3D printed parts.]] /(added 2021-04-23)/
 - [[https://www.home-assistant.io/?hn=true][Home Assistant]] /(added 2019-11-29)/
